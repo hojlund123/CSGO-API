@@ -17,8 +17,8 @@ jobs:
             - run: npm install
             - run: npm run update-data
             - run: |
-                  git config user.name ByMykel
-                  git config user.email bymykel5@gmail.com
+                  git config user.name "GitHub Action"
+                  git config user.email "action@github.com"
                   git add .
 
                   # Get a list of changed files
