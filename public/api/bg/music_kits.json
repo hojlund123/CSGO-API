@@ -1,5 +1,15 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "description": "The official music kit of Counter-Strike 2.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Висок клас"
+        },
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Музикален комплект | Daniel Sadowski — Crimson Assault",
         "description": "<b><font color='#F2A93E'>Daniel Sadowski, Crimson Assault</font></b>\\n \\nКомпозиторът на музика за видеоигри Даниел Садовски предоставя разчупено действие, смесено с ИЗОБИЛИЕ ОТ ЩУРИ ритми в този пулсиращ и освежаващ музикален пакет.",

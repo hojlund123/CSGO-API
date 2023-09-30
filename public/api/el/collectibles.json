@@ -2,7 +2,7 @@
     {
         "id": "collectible-874",
         "name": "Νόμισμα βετεράνου 5 χρόνων",
-        "description": "Είναι μέλος της κοινότητας Counter-Strike για περισσότερο από 5 χρόνια.",
+        "description": "Είναι μέλος της κοινότητας Counter-Strike για πάνω από 5 χρόνια.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -1047,7 +1047,7 @@
     {
         "id": "collectible-969",
         "name": "Νόμισμα βετεράνου 10 χρόνων",
-        "description": "Είναι μέλος της κοινότητας Counter-Strike για περισσότερο από 10 χρόνια.",
+        "description": "Είναι μέλος της κοινότητας Counter-Strike για πάνω από 10 χρόνια.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -1058,7 +1058,7 @@
     {
         "id": "collectible-970",
         "name": "Έμβλημα Αφοσίωσης",
-        "description": "Αυτό το έμβλημα τιμάει την πιστή αφοσίωση των μελών της κοινότητας του Counter-Strike πριν την ενημέρωση Ζώνης κινδύνου. <i>Δύναμη μέσω αφοσίωσης.</i>",
+        "description": "Αυτό το έμβλημα τιμά την πιστή αφοσίωση των μελών της κοινότητας του Counter-Strike πριν την ενημέρωση Ζώνης Κινδύνου. \\n\\n<i>Δύναμη μέσω αφοσίωσης.</i>",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -1340,6 +1340,16 @@
         },
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
+    },
+    {
+        "id": "collectible-996",
+        "name": "Έμβλημα Global Offensive",
+        "description": "Αυτό το έμβλημα τιμά την πιστή αφοσίωση στην κοινότητα του Counter-Strike: Global Offensive πριν την κυκλοφορία του Counter-Strike 2.\\n\\n<i>Οι θρύλοι είναι αθάνατοι.</i>",
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "Extraordinary"
+        },
+        "type": null
     },
     {
         "id": "collectible-1000",
@@ -3093,7 +3103,7 @@
     {
         "id": "collectible-4682",
         "name": "Καρφίτσα Πολιτικής Προστασίας",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -3104,7 +3114,7 @@
     {
         "id": "collectible-4683",
         "name": "Καρφίτσα Συντήρηση!",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -3115,7 +3125,7 @@
     {
         "id": "collectible-4684",
         "name": "Καρφίτσα Vortigaunt",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -3126,7 +3136,7 @@
     {
         "id": "collectible-4685",
         "name": "Καρφίτσα γλυφής κεφαλοκάβουρα",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -3137,7 +3147,7 @@
     {
         "id": "collectible-4686",
         "name": "Καρφίτσα Υγείας",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -3148,7 +3158,7 @@
     {
         "id": "collectible-4687",
         "name": "Καρφίτσα Λάμδα",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -3159,7 +3169,7 @@
     {
         "id": "collectible-4688",
         "name": "Χάλκινη καρφίτσα Λάμδα",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -3170,7 +3180,7 @@
     {
         "id": "collectible-4689",
         "name": "Καρφίτσα CMB",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -3181,7 +3191,7 @@
     {
         "id": "collectible-4690",
         "name": "Καρφίτσα Black Mesa",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -3192,7 +3202,7 @@
     {
         "id": "collectible-4691",
         "name": "Καρφίτσα κράνος Combine",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -3203,7 +3213,7 @@
     {
         "id": "collectible-4692",
         "name": "Καρφίτσα Πόλης 17",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -3896,7 +3906,7 @@
     {
         "id": "collectible-6001",
         "name": "Genuine Καρφίτσα Dust II",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -3907,7 +3917,7 @@
     {
         "id": "collectible-6002",
         "name": "Genuine Καρφίτσα Guardian Elite",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -3918,7 +3928,7 @@
     {
         "id": "collectible-6003",
         "name": "Genuine Καρφίτσα Mirage",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -3929,7 +3939,7 @@
     {
         "id": "collectible-6004",
         "name": "Genuine Καρφίτσα Inferno",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -3940,7 +3950,7 @@
     {
         "id": "collectible-6005",
         "name": "Genuine Καρφίτσα Italy",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -3951,7 +3961,7 @@
     {
         "id": "collectible-6006",
         "name": "Genuine Καρφίτσα Victory",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -3962,7 +3972,7 @@
     {
         "id": "collectible-6007",
         "name": "Genuine Καρφίτσα Militia",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -3973,7 +3983,7 @@
     {
         "id": "collectible-6008",
         "name": "Genuine Καρφίτσα Nuke",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -3984,7 +3994,7 @@
     {
         "id": "collectible-6009",
         "name": "Genuine Καρφίτσα Train",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -3995,7 +4005,7 @@
     {
         "id": "collectible-6010",
         "name": "Genuine Καρφίτσα Guardian",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4006,7 +4016,7 @@
     {
         "id": "collectible-6011",
         "name": "Genuine Καρφίτσα Tactics",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4017,7 +4027,7 @@
     {
         "id": "collectible-6012",
         "name": "Genuine Καρφίτσα Guardian 2",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4028,7 +4038,7 @@
     {
         "id": "collectible-6013",
         "name": "Genuine Καρφίτσα Bravo",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4039,7 +4049,7 @@
     {
         "id": "collectible-6014",
         "name": "Genuine Καρφίτσα Baggage",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4050,7 +4060,7 @@
     {
         "id": "collectible-6015",
         "name": "Genuine Καρφίτσα Phoenix",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4061,7 +4071,7 @@
     {
         "id": "collectible-6016",
         "name": "Genuine Καρφίτσα Office",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4072,7 +4082,7 @@
     {
         "id": "collectible-6017",
         "name": "Genuine Καρφίτσα Cobblestone",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4083,7 +4093,7 @@
     {
         "id": "collectible-6018",
         "name": "Genuine Καρφίτσα Overpass",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4094,7 +4104,7 @@
     {
         "id": "collectible-6019",
         "name": "Genuine Καρφίτσα Bloodhound",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4105,7 +4115,7 @@
     {
         "id": "collectible-6020",
         "name": "Genuine Καρφίτσα Cache",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4116,7 +4126,7 @@
     {
         "id": "collectible-6021",
         "name": "Genuine Καρφίτσα Valeria Phoenix",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4127,7 +4137,7 @@
     {
         "id": "collectible-6022",
         "name": "Genuine Καρφίτσα Chroma",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4138,7 +4148,7 @@
     {
         "id": "collectible-6023",
         "name": "Genuine Καρφίτσα Guardian 3",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4149,7 +4159,7 @@
     {
         "id": "collectible-6024",
         "name": "Genuine Καρφίτσα Canals",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4160,7 +4170,7 @@
     {
         "id": "collectible-6025",
         "name": "Genuine Καρφίτσα Welcome to the Clutch",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4171,7 +4181,7 @@
     {
         "id": "collectible-6026",
         "name": "Genuine Καρφίτσα Death Sentence",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4182,7 +4192,7 @@
     {
         "id": "collectible-6027",
         "name": "Genuine Καρφίτσα Inferno 2",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4193,7 +4203,7 @@
     {
         "id": "collectible-6028",
         "name": "Genuine Καρφίτσα Wildfire",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4204,7 +4214,7 @@
     {
         "id": "collectible-6029",
         "name": "Genuine Καρφίτσα Easy Peasy",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4215,7 +4225,7 @@
     {
         "id": "collectible-6030",
         "name": "Genuine Καρφίτσα Aces High",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4226,7 +4236,7 @@
     {
         "id": "collectible-6031",
         "name": "Genuine Καρφίτσα Hydra",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4237,7 +4247,7 @@
     {
         "id": "collectible-6032",
         "name": "Genuine Καρφίτσα Howl",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4248,7 +4258,7 @@
     {
         "id": "collectible-6033",
         "name": "Genuine Καρφίτσα Brigadier General",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4259,7 +4269,7 @@
     {
         "id": "collectible-6034",
         "name": "Genuine Καρφίτσα Alyx",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4270,7 +4280,7 @@
     {
         "id": "collectible-6101",
         "name": "Καρφίτσα Dust II",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4281,7 +4291,7 @@
     {
         "id": "collectible-6102",
         "name": "Καρφίτσα Guardian Elite",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4292,7 +4302,7 @@
     {
         "id": "collectible-6103",
         "name": "Καρφίτσα Mirage",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4303,7 +4313,7 @@
     {
         "id": "collectible-6104",
         "name": "Καρφίτσα Inferno",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4314,7 +4324,7 @@
     {
         "id": "collectible-6105",
         "name": "Καρφίτσα Italy",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4325,7 +4335,7 @@
     {
         "id": "collectible-6106",
         "name": "Καρφίτσα Victory",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4336,7 +4346,7 @@
     {
         "id": "collectible-6107",
         "name": "Καρφίτσα Militia",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4347,7 +4357,7 @@
     {
         "id": "collectible-6108",
         "name": "Καρφίτσα Nuke",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4358,7 +4368,7 @@
     {
         "id": "collectible-6109",
         "name": "Καρφίτσα Train",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4369,7 +4379,7 @@
     {
         "id": "collectible-6110",
         "name": "Καρφίτσα Guardian",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4380,7 +4390,7 @@
     {
         "id": "collectible-6111",
         "name": "Καρφίτσα Tactics",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 1. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4391,7 +4401,7 @@
     {
         "id": "collectible-6112",
         "name": "Καρφίτσα Guardian 2",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4402,7 +4412,7 @@
     {
         "id": "collectible-6113",
         "name": "Καρφίτσα Bravo",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4413,7 +4423,7 @@
     {
         "id": "collectible-6114",
         "name": "Καρφίτσα Baggage",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4424,7 +4434,7 @@
     {
         "id": "collectible-6115",
         "name": "Καρφίτσα Phoenix",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4435,7 +4445,7 @@
     {
         "id": "collectible-6116",
         "name": "Καρφίτσα Office",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4446,7 +4456,7 @@
     {
         "id": "collectible-6117",
         "name": "Καρφίτσα Cobblestone",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4457,7 +4467,7 @@
     {
         "id": "collectible-6118",
         "name": "Καρφίτσα Overpass",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4468,7 +4478,7 @@
     {
         "id": "collectible-6119",
         "name": "Καρφίτσα Bloodhound",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4479,7 +4489,7 @@
     {
         "id": "collectible-6120",
         "name": "Καρφίτσα Cache",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4490,7 +4500,7 @@
     {
         "id": "collectible-6121",
         "name": "Καρφίτσα Valeria Phoenix",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4501,7 +4511,7 @@
     {
         "id": "collectible-6122",
         "name": "Καρφίτσα Chroma",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας CS:GO.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 2. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4512,7 +4522,7 @@
     {
         "id": "collectible-6123",
         "name": "Καρφίτσα Guardian 3",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4523,7 +4533,7 @@
     {
         "id": "collectible-6124",
         "name": "Καρφίτσα Canals",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4534,7 +4544,7 @@
     {
         "id": "collectible-6125",
         "name": "Καρφίτσα Welcome to the Clutch",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4545,7 +4555,7 @@
     {
         "id": "collectible-6126",
         "name": "Καρφίτσα Death Sentence",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_rare",
             "name": "High Grade"
@@ -4556,7 +4566,7 @@
     {
         "id": "collectible-6127",
         "name": "Καρφίτσα Inferno 2",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4567,7 +4577,7 @@
     {
         "id": "collectible-6128",
         "name": "Καρφίτσα Wildfire",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4578,7 +4588,7 @@
     {
         "id": "collectible-6129",
         "name": "Καρφίτσα Easy Peasy",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Remarkable"
@@ -4589,7 +4599,7 @@
     {
         "id": "collectible-6130",
         "name": "Καρφίτσα Aces High",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4600,7 +4610,7 @@
     {
         "id": "collectible-6131",
         "name": "Καρφίτσα Hydra",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotic"
@@ -4611,7 +4621,7 @@
     {
         "id": "collectible-6132",
         "name": "Καρφίτσα Howl",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4622,7 +4632,7 @@
     {
         "id": "collectible-6133",
         "name": "Καρφίτσα Brigadier General",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα σειράς 3. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"
@@ -4633,7 +4643,7 @@
     {
         "id": "collectible-6134",
         "name": "Καρφίτσα Alyx",
-        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ CS:GO σας.",
+        "description": "Αυτή είναι μια συλλεκτική καρφίτσα προς τιμή του Half-Life: Alyx, της VR επιστροφής της Valve στη σειρά του Half-Life. Μπορεί να προβληθεί στο προφίλ σας.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Extraordinary"

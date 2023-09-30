@@ -1,5 +1,15 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "description": "反恐精英 官方音乐盒。",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "高级"
+        },
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "音乐盒 | Daniel Sadowski - 深红突击",
         "description": "在这个充满节奏感且令人振奋的音乐包中，电子游戏作曲家 Daniel Sadowski 将结合极度疯狂的打击感，带来激情四射的演奏。",
@@ -222,7 +232,7 @@
     {
         "id": "music_kit-23",
         "name": "音乐盒 | Daniel Sadowski - 8 位音乐盒",
-        "description": "Daniel Sadowski 首次用纯正的 8 位音效为《反恐精英》创作出了 8 位音乐盒。",
+        "description": "Daniel Sadowski 首次用纯正的 8 位音效为 反恐精英 创作出了 8 位音乐盒。",
         "rarity": {
             "id": "rarity_rare",
             "name": "高级"
@@ -640,7 +650,7 @@
     {
         "id": "music_kit-61",
         "name": "音乐盒 | The Verkkars & n0thing - 闪光舞",
-        "description": "从阳光四射的加州到冰冷严寒的拉普兰，由CS传奇选手 n0thing 联合 The Verkkars 共同打造，带来的畅销单曲《闪光舞》！倒数321，亮瞎你的眼！",
+        "description": "从阳光四射的加州到冰冷严寒的拉普兰，由反恐精英传奇选手 n0thing 联合 The Verkkars 共同打造，带来的畅销单曲《闪光舞》！倒数321，亮瞎你的眼！",
         "rarity": {
             "id": "rarity_rare",
             "name": "高级"

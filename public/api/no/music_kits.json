@@ -1,5 +1,15 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "description": "Det offisielle musikksettet i Counter-Strike 2.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Høy klasse"
+        },
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Musikksett | Daniel Sadowski – Crimson Assault",
         "description": "Videospillkomponisten Daniel Sadowski leverer \\\"edgy action\\\" mikset med SYKT FETE rytmer i denne pulserende og forfriskende musikkpakken.",
@@ -409,7 +419,7 @@
     {
         "id": "music_kit-40",
         "name": "Halo – The Master Chief Collection",
-        "description": "Gi lydopplevelsen i Counter-Strike en legendarisk forvandling med The Master Chief Collection-musikkpakken, som inneholder ikoniske musikalske øyeblikk fra Halo-universet. © 2019 343 Industries. Med enerett. Brukes med tillatelse fra 343 Industries. Halo: The Master Chief Collection og Halo-logoen er varemerker for Microsoft-selskapsgruppen.",
+        "description": "Gi lydopplevelsen i CS:GO en legendarisk forvandling med The Master Chief Collection-musikkpakken, som inneholder ikoniske musikalske øyeblikk fra Halo-universet. © 2019 343 Industries. Med enerett. Brukes med tillatelse fra 343 Industries. Halo: The Master Chief Collection og Halo-logoen er varemerker for Microsoft-selskapsgruppen.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Høy klasse"
