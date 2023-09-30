@@ -1,5 +1,15 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "description": "The official music kit of Counter-Strike 2.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade"
+        },
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Music Kit | Daniel Sadowski, Crimson Assault",
         "description": "Video Game Composer Daniel Sadowski delivers Edgy Action mixed with CRAZY FAT beats in this pulsating, exhilarating Music Pack.",

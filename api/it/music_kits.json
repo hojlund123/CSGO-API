@@ -1,5 +1,15 @@
 [
     {
+        "id": "music_kit-1",
+        "name": null,
+        "description": "Il tema musicale ufficiale di Counter-Strike 2.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Qualità elevata"
+        },
+        "exclusive": false
+    },
+    {
         "id": "music_kit-3",
         "name": "Tema musicale | Daniel Sadowski, Crimson Assault",
         "description": "Il compositore per videogiochi Daniel Sadowski ci propone questo tema al fulmicotone con una base ritmica pesante in un pacchetto musicale vivace e coinvolgente.",
@@ -629,7 +639,7 @@
     {
         "id": "music_kit-60",
         "name": "Tema musicale | bbno$, u mad!",
-        "description": "bbno$ ha creato l'inno del gamer tossico per eccellenza: \\\"u mad!\\\", \\\"Are u mad?\\\", \\\"LOL get good scrub\\\". Una ricerca dimostra che, giocando con questo tema musicale, si può passare da Argento a Elite Globale in un battibaleno.",
+        "description": "bbno$ ha creato l'inno del gamer tossico per eccellenza: \\\"u mad!\\\", \\\"Are u mad?\\\", \\\"LOL get good scrub\\\". Una ricerca dimostra che, giocando con questo tema musicale, si può passare da Argento a Élite globale in un battibaleno.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Qualità elevata"

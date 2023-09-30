@@ -1058,7 +1058,7 @@
     {
         "id": "collectible-970",
         "name": "Loyalitätsabzeichen",
-        "description": "Dieses Abzeichen ist ein Andenken für loyale Mitglieder in der Counter-Strike-Community vor der Veröffentlichung des Gefahrenzonen-Updates. <i>Stärke durch Loyalität.</i>",
+        "description": "Dieses Abzeichen ist ein Andenken für loyale Mitglieder in der Counter-Strike-Community vor der Veröffentlichung des Gefahrenzonen-Updates.\\n\\n<i>Stärke durch Loyalität.</i>",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -1340,6 +1340,16 @@
         },
         "type": "Tournament Finalist Trophy",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png"
+    },
+    {
+        "id": "collectible-996",
+        "name": "Global-Offensive-Abzeichen",
+        "description": "This badge commemorates loyal membership in the Counter-Strike: Global Offensive community prior to the release of Counter-Strike 2. \\n\\n<i>Legends never die.</i>",
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "Außerordentlich"
+        },
+        "type": null
     },
     {
         "id": "collectible-1000",
@@ -3093,7 +3103,7 @@
     {
         "id": "collectible-4682",
         "name": "Anstecknadel: Ordnungsschutz",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -3104,7 +3114,7 @@
     {
         "id": "collectible-4683",
         "name": "Anstecknadel: Nahrung!",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -3115,7 +3125,7 @@
     {
         "id": "collectible-4684",
         "name": "Anstecknadel: Vortigaunt",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -3126,7 +3136,7 @@
     {
         "id": "collectible-4685",
         "name": "Anstecknadel: Kopfkrabbenglyphe",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -3137,7 +3147,7 @@
     {
         "id": "collectible-4686",
         "name": "Anstecknadel: Gesundheit",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -3148,7 +3158,7 @@
     {
         "id": "collectible-4687",
         "name": "Anstecknadel: Lambda",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -3159,7 +3169,7 @@
     {
         "id": "collectible-4688",
         "name": "Anstecknadel: Kupfer-Lambda",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -3170,7 +3180,7 @@
     {
         "id": "collectible-4689",
         "name": "Anstecknadel: CMB",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -3181,7 +3191,7 @@
     {
         "id": "collectible-4690",
         "name": "Anstecknadel: Black Mesa",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -3192,7 +3202,7 @@
     {
         "id": "collectible-4691",
         "name": "Anstecknadel: Combine-Helm",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -3203,7 +3213,7 @@
     {
         "id": "collectible-4692",
         "name": "Anstecknadel: City 17",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -3896,7 +3906,7 @@
     {
         "id": "collectible-6001",
         "name": "Anstecknadel: Dust II (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -3907,7 +3917,7 @@
     {
         "id": "collectible-6002",
         "name": "Anstecknadel: Wächter-Elite (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -3918,7 +3928,7 @@
     {
         "id": "collectible-6003",
         "name": "Anstecknadel: Mirage (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -3929,7 +3939,7 @@
     {
         "id": "collectible-6004",
         "name": "Anstecknadel: Inferno (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -3940,7 +3950,7 @@
     {
         "id": "collectible-6005",
         "name": "Anstecknadel: Italy (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -3951,7 +3961,7 @@
     {
         "id": "collectible-6006",
         "name": "Anstecknadel: Sieg (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -3962,7 +3972,7 @@
     {
         "id": "collectible-6007",
         "name": "Anstecknadel: Militia (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -3973,7 +3983,7 @@
     {
         "id": "collectible-6008",
         "name": "Anstecknadel: Nuke (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -3984,7 +3994,7 @@
     {
         "id": "collectible-6009",
         "name": "Anstecknadel: Train (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -3995,7 +4005,7 @@
     {
         "id": "collectible-6010",
         "name": "Anstecknadel: Wächter (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4006,7 +4016,7 @@
     {
         "id": "collectible-6011",
         "name": "Anstecknadel: Taktik (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4017,7 +4027,7 @@
     {
         "id": "collectible-6012",
         "name": "Anstecknadel: Guardian 2 (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4028,7 +4038,7 @@
     {
         "id": "collectible-6013",
         "name": "Anstecknadel: Bravo (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4039,7 +4049,7 @@
     {
         "id": "collectible-6014",
         "name": "Anstecknadel: Baggage (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4050,7 +4060,7 @@
     {
         "id": "collectible-6015",
         "name": "Anstecknadel: Phoenix (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4061,7 +4071,7 @@
     {
         "id": "collectible-6016",
         "name": "Anstecknadel: Office (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4072,7 +4082,7 @@
     {
         "id": "collectible-6017",
         "name": "Anstecknadel: Cobblestone (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4083,7 +4093,7 @@
     {
         "id": "collectible-6018",
         "name": "Anstecknadel: Overpass (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4094,7 +4104,7 @@
     {
         "id": "collectible-6019",
         "name": "Anstecknadel: Bloodhound (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4105,7 +4115,7 @@
     {
         "id": "collectible-6020",
         "name": "Anstecknadel: Cache (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4116,7 +4126,7 @@
     {
         "id": "collectible-6021",
         "name": "Anstecknadel: Valeria Phoenix (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4127,7 +4137,7 @@
     {
         "id": "collectible-6022",
         "name": "Anstecknadel: Chroma (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4138,7 +4148,7 @@
     {
         "id": "collectible-6023",
         "name": "Anstecknadel: Guardian 3 (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4149,7 +4159,7 @@
     {
         "id": "collectible-6024",
         "name": "Anstecknadel: Canals (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4160,7 +4170,7 @@
     {
         "id": "collectible-6025",
         "name": "Anstecknadel: Welcome to the Clutch (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4171,7 +4181,7 @@
     {
         "id": "collectible-6026",
         "name": "Anstecknadel: Death Sentence (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4182,7 +4192,7 @@
     {
         "id": "collectible-6027",
         "name": "Anstecknadel: Inferno 2 (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4193,7 +4203,7 @@
     {
         "id": "collectible-6028",
         "name": "Anstecknadel: Wildfire (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4204,7 +4214,7 @@
     {
         "id": "collectible-6029",
         "name": "Anstecknadel: Easy Peasy (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4215,7 +4225,7 @@
     {
         "id": "collectible-6030",
         "name": "Anstecknadel: Aces High (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4226,7 +4236,7 @@
     {
         "id": "collectible-6031",
         "name": "Anstecknadel: Hydra (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4237,7 +4247,7 @@
     {
         "id": "collectible-6032",
         "name": "Anstecknadel: Howl (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4248,7 +4258,7 @@
     {
         "id": "collectible-6033",
         "name": "Anstecknadel: Brigadier General (Echt)",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4259,7 +4269,7 @@
     {
         "id": "collectible-6034",
         "name": "Anstecknadel: Alyx (Echt)",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4270,7 +4280,7 @@
     {
         "id": "collectible-6101",
         "name": "Anstecknadel: Dust II",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4281,7 +4291,7 @@
     {
         "id": "collectible-6102",
         "name": "Anstecknadel: Wächter-Elite",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4292,7 +4302,7 @@
     {
         "id": "collectible-6103",
         "name": "Anstecknadel: Mirage",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4303,7 +4313,7 @@
     {
         "id": "collectible-6104",
         "name": "Anstecknadel: Inferno",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4314,7 +4324,7 @@
     {
         "id": "collectible-6105",
         "name": "Anstecknadel: Italy",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4325,7 +4335,7 @@
     {
         "id": "collectible-6106",
         "name": "Anstecknadel: Sieg",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4336,7 +4346,7 @@
     {
         "id": "collectible-6107",
         "name": "Anstecknadel: Militia",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4347,7 +4357,7 @@
     {
         "id": "collectible-6108",
         "name": "Anstecknadel: Nuke",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4358,7 +4368,7 @@
     {
         "id": "collectible-6109",
         "name": "Anstecknadel: Train",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4369,7 +4379,7 @@
     {
         "id": "collectible-6110",
         "name": "Anstecknadel: Wächter",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4380,7 +4390,7 @@
     {
         "id": "collectible-6111",
         "name": "Anstecknadel: Taktik",
-        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der ersten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4391,7 +4401,7 @@
     {
         "id": "collectible-6112",
         "name": "Anstecknadel: Guardian 2",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4402,7 +4412,7 @@
     {
         "id": "collectible-6113",
         "name": "Anstecknadel: Bravo",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4413,7 +4423,7 @@
     {
         "id": "collectible-6114",
         "name": "Anstecknadel: Baggage",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4424,7 +4434,7 @@
     {
         "id": "collectible-6115",
         "name": "Anstecknadel: Phoenix",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4435,7 +4445,7 @@
     {
         "id": "collectible-6116",
         "name": "Anstecknadel: Office",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4446,7 +4456,7 @@
     {
         "id": "collectible-6117",
         "name": "Anstecknadel: Cobblestone",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4457,7 +4467,7 @@
     {
         "id": "collectible-6118",
         "name": "Anstecknadel: Overpass",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4468,7 +4478,7 @@
     {
         "id": "collectible-6119",
         "name": "Anstecknadel: Bloodhound",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4479,7 +4489,7 @@
     {
         "id": "collectible-6120",
         "name": "Anstecknadel: Cache",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4490,7 +4500,7 @@
     {
         "id": "collectible-6121",
         "name": "Anstecknadel: Valeria Phoenix",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4501,7 +4511,7 @@
     {
         "id": "collectible-6122",
         "name": "Anstecknadel: Chroma",
-        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der zweiten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4512,7 +4522,7 @@
     {
         "id": "collectible-6123",
         "name": "Anstecknadel: Guardian 3",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4523,7 +4533,7 @@
     {
         "id": "collectible-6124",
         "name": "Anstecknadel: Canals",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4534,7 +4544,7 @@
     {
         "id": "collectible-6125",
         "name": "Anstecknadel: Welcome to the Clutch",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4545,7 +4555,7 @@
     {
         "id": "collectible-6126",
         "name": "Anstecknadel: Death Sentence",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hohe Qualität"
@@ -4556,7 +4566,7 @@
     {
         "id": "collectible-6127",
         "name": "Anstecknadel: Inferno 2",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4567,7 +4577,7 @@
     {
         "id": "collectible-6128",
         "name": "Anstecknadel: Wildfire",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4578,7 +4588,7 @@
     {
         "id": "collectible-6129",
         "name": "Anstecknadel: Easy Peasy",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "Bemerkenswert"
@@ -4589,7 +4599,7 @@
     {
         "id": "collectible-6130",
         "name": "Anstecknadel: Aces High",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4600,7 +4610,7 @@
     {
         "id": "collectible-6131",
         "name": "Anstecknadel: Hydra",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "Exotisch"
@@ -4611,7 +4621,7 @@
     {
         "id": "collectible-6132",
         "name": "Anstecknadel: Howl",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4622,7 +4632,7 @@
     {
         "id": "collectible-6133",
         "name": "Anstecknadel: Brigadier General",
-        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Dies ist eine Sammelanstecknadel der dritten Serie. Sie kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"
@@ -4633,7 +4643,7 @@
     {
         "id": "collectible-6134",
         "name": "Anstecknadel: Alyx",
-        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem CS:GO-Profil ausgestellt werden.",
+        "description": "Mit dieser Sammelanstecknadel feiert Valve Half-Life: Alyx und die Rückkehr der Half-Life-Serie auf VR. Die Sammelanstecknadel kann auf Ihrem Profil ausgestellt werden.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Außerordentlich"

@@ -141,7 +141,7 @@
     },
     {
         "id": "sticker-15",
-        "name": "Naklejka | As pik (holograficzna)",
+        "name": "Naklejka | As pik (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -191,7 +191,7 @@
     },
     {
         "id": "sticker-20",
-        "name": "Naklejka | Groźny (holograficzna)",
+        "name": "Naklejka | Groźny (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -241,7 +241,7 @@
     },
     {
         "id": "sticker-25",
-        "name": "Naklejka | Czujność (holograficzna)",
+        "name": "Naklejka | Czujność (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -281,7 +281,7 @@
     },
     {
         "id": "sticker-31",
-        "name": "Naklejka | Bish (holograficzna)",
+        "name": "Naklejka | Bish (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -291,7 +291,7 @@
     },
     {
         "id": "sticker-32",
-        "name": "Naklejka | Bash (holograficzna)",
+        "name": "Naklejka | Bash (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -301,7 +301,7 @@
     },
     {
         "id": "sticker-33",
-        "name": "Naklejka | Bosh (holograficzna)",
+        "name": "Naklejka | Bosh (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -391,7 +391,7 @@
     },
     {
         "id": "sticker-42",
-        "name": "Naklejka | Let's Roll-oll (holograficzna)",
+        "name": "Naklejka | Let's Roll-oll (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -451,7 +451,7 @@
     },
     {
         "id": "sticker-49",
-        "name": "Naklejka | 3DMAX (holograficzna) | Katowice 2014",
+        "name": "Naklejka | 3DMAX (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -471,7 +471,7 @@
     },
     {
         "id": "sticker-51",
-        "name": "Naklejka | compLexity Gaming (holograficzna) | Katowice 2014",
+        "name": "Naklejka | compLexity Gaming (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -491,7 +491,7 @@
     },
     {
         "id": "sticker-53",
-        "name": "Naklejka | Team Dignitas (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Team Dignitas (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -511,7 +511,7 @@
     },
     {
         "id": "sticker-56",
-        "name": "Naklejka | Fnatic (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Fnatic (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -531,7 +531,7 @@
     },
     {
         "id": "sticker-58",
-        "name": "Naklejka | HellRaisers (holograficzna) | Katowice 2014",
+        "name": "Naklejka | HellRaisers (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -551,7 +551,7 @@
     },
     {
         "id": "sticker-60",
-        "name": "Naklejka | iBUYPOWER (holograficzna) | Katowice 2014",
+        "name": "Naklejka | iBUYPOWER (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -571,7 +571,7 @@
     },
     {
         "id": "sticker-62",
-        "name": "Naklejka | Team LDLC.com (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Team LDLC.com (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -591,7 +591,7 @@
     },
     {
         "id": "sticker-64",
-        "name": "Naklejka | LGB eSports (holograficzna) | Katowice 2014",
+        "name": "Naklejka | LGB eSports (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -611,7 +611,7 @@
     },
     {
         "id": "sticker-66",
-        "name": "Naklejka | mousesports (holograficzna) | Katowice 2014",
+        "name": "Naklejka | mousesports (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -631,7 +631,7 @@
     },
     {
         "id": "sticker-68",
-        "name": "Naklejka | Clan-Mystik (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Clan-Mystik (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -651,7 +651,7 @@
     },
     {
         "id": "sticker-70",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -671,7 +671,7 @@
     },
     {
         "id": "sticker-72",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -691,7 +691,7 @@
     },
     {
         "id": "sticker-74",
-        "name": "Naklejka | Reason Gaming (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Reason Gaming (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -711,7 +711,7 @@
     },
     {
         "id": "sticker-76",
-        "name": "Naklejka | Titan (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Titan (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -731,7 +731,7 @@
     },
     {
         "id": "sticker-78",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -751,7 +751,7 @@
     },
     {
         "id": "sticker-80",
-        "name": "Naklejka | Vox Eminor (holograficzna) | Katowice 2014",
+        "name": "Naklejka | Vox Eminor (hologramowa) | Katowice 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1011,7 +1011,7 @@
     },
     {
         "id": "sticker-106",
-        "name": "Naklejka | Wojenna harfa (holograficzna)",
+        "name": "Naklejka | Wojenna harfa (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1111,7 +1111,7 @@
     },
     {
         "id": "sticker-116",
-        "name": "Naklejka | Drużynówka (holograficzna)",
+        "name": "Naklejka | Drużynówka (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1161,7 +1161,7 @@
     },
     {
         "id": "sticker-121",
-        "name": "Naklejka | Rekt (holograficzna)",
+        "name": "Naklejka | Rekt (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1181,7 +1181,7 @@
     },
     {
         "id": "sticker-123",
-        "name": "Naklejka | Cloud9 (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Cloud9 (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1201,7 +1201,7 @@
     },
     {
         "id": "sticker-125",
-        "name": "Naklejka | Fnatic (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Fnatic (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1221,7 +1221,7 @@
     },
     {
         "id": "sticker-127",
-        "name": "Naklejka | HellRaisers (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | HellRaisers (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1241,7 +1241,7 @@
     },
     {
         "id": "sticker-129",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1261,7 +1261,7 @@
     },
     {
         "id": "sticker-131",
-        "name": "Naklejka | Team Dignitas (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Team Dignitas (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1281,7 +1281,7 @@
     },
     {
         "id": "sticker-133",
-        "name": "Naklejka | Team LDLC.com (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Team LDLC.com (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1301,7 +1301,7 @@
     },
     {
         "id": "sticker-135",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1321,7 +1321,7 @@
     },
     {
         "id": "sticker-137",
-        "name": "Naklejka | Copenhagen Wolves (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Copenhagen Wolves (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1341,7 +1341,7 @@
     },
     {
         "id": "sticker-139",
-        "name": "Naklejka | dAT team (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | dAT team (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1361,7 +1361,7 @@
     },
     {
         "id": "sticker-141",
-        "name": "Naklejka | Epsilon eSports (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Epsilon eSports (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1381,7 +1381,7 @@
     },
     {
         "id": "sticker-143",
-        "name": "Naklejka | iBUYPOWER (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | iBUYPOWER (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1401,7 +1401,7 @@
     },
     {
         "id": "sticker-145",
-        "name": "Naklejka | London Conspiracy (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | London Conspiracy (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1421,7 +1421,7 @@
     },
     {
         "id": "sticker-147",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1441,7 +1441,7 @@
     },
     {
         "id": "sticker-149",
-        "name": "Naklejka | Titan (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Titan (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1461,7 +1461,7 @@
     },
     {
         "id": "sticker-151",
-        "name": "Naklejka | Vox Eminor (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | Vox Eminor (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1481,7 +1481,7 @@
     },
     {
         "id": "sticker-153",
-        "name": "Naklejka | MTS GameGod Wolf (holograficzna) | Kolonia 2014",
+        "name": "Naklejka | MTS GameGod Wolf (hologramowa) | Kolonia 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1941,7 +1941,7 @@
     },
     {
         "id": "sticker-199",
-        "name": "Naklejka | Fnatic (holograficzna) | DreamHack 2014",
+        "name": "Naklejka | Fnatic (hologramowa) | DreamHack 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -1971,7 +1971,7 @@
     },
     {
         "id": "sticker-202",
-        "name": "Naklejka | Cloud9 (holograficzna) | DreamHack 2014",
+        "name": "Naklejka | Cloud9 (hologramowa) | DreamHack 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2001,7 +2001,7 @@
     },
     {
         "id": "sticker-208",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | DreamHack 2014",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | DreamHack 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2031,7 +2031,7 @@
     },
     {
         "id": "sticker-211",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | DreamHack 2014",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | DreamHack 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2061,7 +2061,7 @@
     },
     {
         "id": "sticker-214",
-        "name": "Naklejka | Natus Vincere (holograficzna) | DreamHack 2014",
+        "name": "Naklejka | Natus Vincere (hologramowa) | DreamHack 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2091,7 +2091,7 @@
     },
     {
         "id": "sticker-220",
-        "name": "Naklejka | Team Dignitas (holograficzna) | DreamHack 2014",
+        "name": "Naklejka | Team Dignitas (hologramowa) | DreamHack 2014",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2661,7 +2661,7 @@
     },
     {
         "id": "sticker-278",
-        "name": "Naklejka | Podpalacz (holograficzna)",
+        "name": "Naklejka | Podpalacz (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -2751,7 +2751,7 @@
     },
     {
         "id": "sticker-287",
-        "name": "Naklejka | 3DMAX (holograficzna) | Katowice 2015",
+        "name": "Naklejka | 3DMAX (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2791,7 +2791,7 @@
     },
     {
         "id": "sticker-291",
-        "name": "Naklejka | Cloud9 G2A (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Cloud9 G2A (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2831,7 +2831,7 @@
     },
     {
         "id": "sticker-295",
-        "name": "Naklejka | Counter Logic Gaming (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Counter Logic Gaming (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2891,7 +2891,7 @@
     },
     {
         "id": "sticker-303",
-        "name": "Naklejka | Flipsid3 Tactics (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Flipsid3 Tactics (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2931,7 +2931,7 @@
     },
     {
         "id": "sticker-307",
-        "name": "Naklejka | Fnatic (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Fnatic (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -2971,7 +2971,7 @@
     },
     {
         "id": "sticker-311",
-        "name": "Naklejka | HellRaisers (holograficzna) | Katowice 2015",
+        "name": "Naklejka | HellRaisers (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3011,7 +3011,7 @@
     },
     {
         "id": "sticker-315",
-        "name": "Naklejka | Keyd Stars (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Keyd Stars (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3051,7 +3051,7 @@
     },
     {
         "id": "sticker-319",
-        "name": "Naklejka | LGB eSports (holograficzna) | Katowice 2015",
+        "name": "Naklejka | LGB eSports (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3091,7 +3091,7 @@
     },
     {
         "id": "sticker-323",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3131,7 +3131,7 @@
     },
     {
         "id": "sticker-327",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3171,7 +3171,7 @@
     },
     {
         "id": "sticker-331",
-        "name": "Naklejka | PENTA Sports (holograficzna) | Katowice 2015",
+        "name": "Naklejka | PENTA Sports (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3211,7 +3211,7 @@
     },
     {
         "id": "sticker-335",
-        "name": "Naklejka | Team EnVyUs (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Team EnVyUs (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3251,7 +3251,7 @@
     },
     {
         "id": "sticker-339",
-        "name": "Naklejka | TSM Kinguin (holograficzna) | Katowice 2015",
+        "name": "Naklejka | TSM Kinguin (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3291,7 +3291,7 @@
     },
     {
         "id": "sticker-343",
-        "name": "Naklejka | Titan (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Titan (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3331,7 +3331,7 @@
     },
     {
         "id": "sticker-347",
-        "name": "Naklejka | Virtus.pro (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Virtus.pro (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3371,7 +3371,7 @@
     },
     {
         "id": "sticker-351",
-        "name": "Naklejka | Vox Eminor (holograficzna) | Katowice 2015",
+        "name": "Naklejka | Vox Eminor (hologramowa) | Katowice 2015",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -3541,7 +3541,7 @@
     },
     {
         "id": "sticker-368",
-        "name": "Naklejka | Jednorożec (holograficzna)",
+        "name": "Naklejka | Jednorożec (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9541,7 +9541,7 @@
     },
     {
         "id": "sticker-968",
-        "name": "Naklejka | Ivette (holograficzna)",
+        "name": "Naklejka | Ivette (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9551,7 +9551,7 @@
     },
     {
         "id": "sticker-969",
-        "name": "Naklejka | Kimberly (holograficzna)",
+        "name": "Naklejka | Kimberly (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9561,7 +9561,7 @@
     },
     {
         "id": "sticker-970",
-        "name": "Naklejka | Martha (holograficzna)",
+        "name": "Naklejka | Martha (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9571,7 +9571,7 @@
     },
     {
         "id": "sticker-971",
-        "name": "Naklejka | Merietta (holograficzna)",
+        "name": "Naklejka | Merietta (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9581,7 +9581,7 @@
     },
     {
         "id": "sticker-972",
-        "name": "Naklejka | Sherry (holograficzna)",
+        "name": "Naklejka | Sherry (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9591,7 +9591,7 @@
     },
     {
         "id": "sticker-973",
-        "name": "Naklejka | Tamara (holograficzna)",
+        "name": "Naklejka | Tamara (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9611,7 +9611,7 @@
     },
     {
         "id": "sticker-975",
-        "name": "Naklejka | Bum (holograficzna)",
+        "name": "Naklejka | Bum (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9641,7 +9641,7 @@
     },
     {
         "id": "sticker-978",
-        "name": "Naklejka | Odliczanie (holograficzna)",
+        "name": "Naklejka | Odliczanie (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9671,7 +9671,7 @@
     },
     {
         "id": "sticker-981",
-        "name": "Naklejka | Nie martw się (holograficzna)",
+        "name": "Naklejka | Nie martw się (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9701,7 +9701,7 @@
     },
     {
         "id": "sticker-984",
-        "name": "Naklejka | Hard Cluck Life (holograficzna)",
+        "name": "Naklejka | Hard Cluck Life (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9731,7 +9731,7 @@
     },
     {
         "id": "sticker-987",
-        "name": "Naklejka | Rusz się (holograficzna)",
+        "name": "Naklejka | Rusz się (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -9941,7 +9941,7 @@
     },
     {
         "id": "sticker-1008",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -9981,7 +9981,7 @@
     },
     {
         "id": "sticker-1012",
-        "name": "Naklejka | Splyce (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Splyce (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10021,7 +10021,7 @@
     },
     {
         "id": "sticker-1016",
-        "name": "Naklejka | Counter Logic Gaming (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Counter Logic Gaming (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10061,7 +10061,7 @@
     },
     {
         "id": "sticker-1020",
-        "name": "Naklejka | Gambit Gaming (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Gambit Gaming (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10101,7 +10101,7 @@
     },
     {
         "id": "sticker-1024",
-        "name": "Naklejka | Flipsid3 Tactics (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Flipsid3 Tactics (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10141,7 +10141,7 @@
     },
     {
         "id": "sticker-1028",
-        "name": "Naklejka | Team Liquid (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Team Liquid (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10181,7 +10181,7 @@
     },
     {
         "id": "sticker-1032",
-        "name": "Naklejka | mousesports (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | mousesports (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10221,7 +10221,7 @@
     },
     {
         "id": "sticker-1036",
-        "name": "Naklejka | Natus Vincere (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Natus Vincere (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10261,7 +10261,7 @@
     },
     {
         "id": "sticker-1040",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10301,7 +10301,7 @@
     },
     {
         "id": "sticker-1044",
-        "name": "Naklejka | Cloud9 (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Cloud9 (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10341,7 +10341,7 @@
     },
     {
         "id": "sticker-1048",
-        "name": "Naklejka | G2 Esports (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | G2 Esports (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10381,7 +10381,7 @@
     },
     {
         "id": "sticker-1052",
-        "name": "Naklejka | FaZe Clan (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | FaZe Clan (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10421,7 +10421,7 @@
     },
     {
         "id": "sticker-1056",
-        "name": "Naklejka | Astralis (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Astralis (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10461,7 +10461,7 @@
     },
     {
         "id": "sticker-1060",
-        "name": "Naklejka | Team EnVyUs (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Team EnVyUs (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10501,7 +10501,7 @@
     },
     {
         "id": "sticker-1064",
-        "name": "Naklejka | Fnatic (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Fnatic (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10541,7 +10541,7 @@
     },
     {
         "id": "sticker-1068",
-        "name": "Naklejka | Luminosity Gaming (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | Luminosity Gaming (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -10581,7 +10581,7 @@
     },
     {
         "id": "sticker-1072",
-        "name": "Naklejka | MLG (holograficzna) | MLG Columbus 2016",
+        "name": "Naklejka | MLG (hologramowa) | MLG Columbus 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13011,7 +13011,7 @@
     },
     {
         "id": "sticker-1315",
-        "name": "Naklejka | Gwiazdy - pomarańczowa (holograficzna)",
+        "name": "Naklejka | Gwiazdy - pomarańczowa (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -13021,7 +13021,7 @@
     },
     {
         "id": "sticker-1316",
-        "name": "Naklejka | Gwiazdy - niebieska (holograficzna)",
+        "name": "Naklejka | Gwiazdy - niebieska (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -13041,7 +13041,7 @@
     },
     {
         "id": "sticker-1318",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13081,7 +13081,7 @@
     },
     {
         "id": "sticker-1322",
-        "name": "Naklejka | OpTic Gaming (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | OpTic Gaming (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13121,7 +13121,7 @@
     },
     {
         "id": "sticker-1326",
-        "name": "Naklejka | Counter Logic Gaming (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Counter Logic Gaming (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13161,7 +13161,7 @@
     },
     {
         "id": "sticker-1330",
-        "name": "Naklejka | Gambit Gaming (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Gambit Gaming (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13201,7 +13201,7 @@
     },
     {
         "id": "sticker-1334",
-        "name": "Naklejka | Flipsid3 Tactics (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Flipsid3 Tactics (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13241,7 +13241,7 @@
     },
     {
         "id": "sticker-1338",
-        "name": "Naklejka | Team Liquid (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Team Liquid (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13281,7 +13281,7 @@
     },
     {
         "id": "sticker-1342",
-        "name": "Naklejka | mousesports (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | mousesports (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13321,7 +13321,7 @@
     },
     {
         "id": "sticker-1346",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13361,7 +13361,7 @@
     },
     {
         "id": "sticker-1350",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13401,7 +13401,7 @@
     },
     {
         "id": "sticker-1354",
-        "name": "Naklejka | SK Gaming (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | SK Gaming (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13441,7 +13441,7 @@
     },
     {
         "id": "sticker-1358",
-        "name": "Naklejka | G2 Esports (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | G2 Esports (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13481,7 +13481,7 @@
     },
     {
         "id": "sticker-1362",
-        "name": "Naklejka | FaZe Clan (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | FaZe Clan (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13521,7 +13521,7 @@
     },
     {
         "id": "sticker-1366",
-        "name": "Naklejka | Astralis (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Astralis (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13561,7 +13561,7 @@
     },
     {
         "id": "sticker-1370",
-        "name": "Naklejka | Team EnVyUs (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Team EnVyUs (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13601,7 +13601,7 @@
     },
     {
         "id": "sticker-1374",
-        "name": "Naklejka | Fnatic (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Fnatic (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13641,7 +13641,7 @@
     },
     {
         "id": "sticker-1378",
-        "name": "Naklejka | Team Dignitas (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | Team Dignitas (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -13681,7 +13681,7 @@
     },
     {
         "id": "sticker-1382",
-        "name": "Naklejka | ESL (holograficzna) | Kolonia 2016",
+        "name": "Naklejka | ESL (hologramowa) | Kolonia 2016",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16181,7 +16181,7 @@
     },
     {
         "id": "sticker-1632",
-        "name": "Naklejka | Borys (holograficzna)",
+        "name": "Naklejka | Borys (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16191,7 +16191,7 @@
     },
     {
         "id": "sticker-1633",
-        "name": "Naklejka | Max (holograficzna)",
+        "name": "Naklejka | Max (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16201,7 +16201,7 @@
     },
     {
         "id": "sticker-1634",
-        "name": "Naklejka | Stan (holograficzna)",
+        "name": "Naklejka | Stan (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16211,7 +16211,7 @@
     },
     {
         "id": "sticker-1635",
-        "name": "Naklejka | Jack (holograficzna)",
+        "name": "Naklejka | Jack (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16221,7 +16221,7 @@
     },
     {
         "id": "sticker-1636",
-        "name": "Naklejka | Perry (holograficzna)",
+        "name": "Naklejka | Perry (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16231,7 +16231,7 @@
     },
     {
         "id": "sticker-1637",
-        "name": "Naklejka | Viggo (holograficzna)",
+        "name": "Naklejka | Viggo (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16241,7 +16241,7 @@
     },
     {
         "id": "sticker-1638",
-        "name": "Naklejka | Joan (holograficzna)",
+        "name": "Naklejka | Joan (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16321,7 +16321,7 @@
     },
     {
         "id": "sticker-1646",
-        "name": "Naklejka | Hippokamp (holograficzna)",
+        "name": "Naklejka | Hippokamp (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16331,7 +16331,7 @@
     },
     {
         "id": "sticker-1647",
-        "name": "Naklejka | Mantykora (holograficzna)",
+        "name": "Naklejka | Mantykora (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16341,7 +16341,7 @@
     },
     {
         "id": "sticker-1648",
-        "name": "Naklejka | Pegaz (holograficzna)",
+        "name": "Naklejka | Pegaz (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16351,7 +16351,7 @@
     },
     {
         "id": "sticker-1649",
-        "name": "Naklejka | Sfinks (holograficzna)",
+        "name": "Naklejka | Sfinks (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -16471,7 +16471,7 @@
     },
     {
         "id": "sticker-1739",
-        "name": "Naklejka | Astralis (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | Astralis (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16511,7 +16511,7 @@
     },
     {
         "id": "sticker-1743",
-        "name": "Naklejka | Team EnVyUs (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | Team EnVyUs (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16551,7 +16551,7 @@
     },
     {
         "id": "sticker-1747",
-        "name": "Naklejka | FaZe Clan (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | FaZe Clan (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16591,7 +16591,7 @@
     },
     {
         "id": "sticker-1751",
-        "name": "Naklejka | Flipsid3 Tactics (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | Flipsid3 Tactics (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16631,7 +16631,7 @@
     },
     {
         "id": "sticker-1755",
-        "name": "Naklejka | Fnatic (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | Fnatic (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16671,7 +16671,7 @@
     },
     {
         "id": "sticker-1759",
-        "name": "Naklejka | G2 Esports (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | G2 Esports (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16711,7 +16711,7 @@
     },
     {
         "id": "sticker-1763",
-        "name": "Naklejka | Gambit Gaming (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | Gambit Gaming (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16751,7 +16751,7 @@
     },
     {
         "id": "sticker-1767",
-        "name": "Naklejka | GODSENT (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | GODSENT (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16791,7 +16791,7 @@
     },
     {
         "id": "sticker-1771",
-        "name": "Naklejka | HellRaisers (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | HellRaisers (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16831,7 +16831,7 @@
     },
     {
         "id": "sticker-1775",
-        "name": "Naklejka | mousesports (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | mousesports (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16871,7 +16871,7 @@
     },
     {
         "id": "sticker-1779",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16911,7 +16911,7 @@
     },
     {
         "id": "sticker-1783",
-        "name": "Naklejka | North (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | North (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16951,7 +16951,7 @@
     },
     {
         "id": "sticker-1787",
-        "name": "Naklejka | OpTic Gaming (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | OpTic Gaming (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -16991,7 +16991,7 @@
     },
     {
         "id": "sticker-1791",
-        "name": "Naklejka | SK Gaming (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | SK Gaming (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -17031,7 +17031,7 @@
     },
     {
         "id": "sticker-1795",
-        "name": "Naklejka | Team Liquid (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | Team Liquid (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -17071,7 +17071,7 @@
     },
     {
         "id": "sticker-1799",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -17111,7 +17111,7 @@
     },
     {
         "id": "sticker-1803",
-        "name": "Naklejka | ELEAGUE (holograficzna) | Atlanta 2017",
+        "name": "Naklejka | ELEAGUE (hologramowa) | Atlanta 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19551,7 +19551,7 @@
     },
     {
         "id": "sticker-2064",
-        "name": "Naklejka | Astralis (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Astralis (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19591,7 +19591,7 @@
     },
     {
         "id": "sticker-2068",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19631,7 +19631,7 @@
     },
     {
         "id": "sticker-2072",
-        "name": "Naklejka | Fnatic (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Fnatic (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19671,7 +19671,7 @@
     },
     {
         "id": "sticker-2076",
-        "name": "Naklejka | SK Gaming (holograficzna) | Kraków 2017",
+        "name": "Naklejka | SK Gaming (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19711,7 +19711,7 @@
     },
     {
         "id": "sticker-2080",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19751,7 +19751,7 @@
     },
     {
         "id": "sticker-2084",
-        "name": "Naklejka | Gambit (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Gambit (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19791,7 +19791,7 @@
     },
     {
         "id": "sticker-2088",
-        "name": "Naklejka | North (holograficzna) | Kraków 2017",
+        "name": "Naklejka | North (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19831,7 +19831,7 @@
     },
     {
         "id": "sticker-2092",
-        "name": "Naklejka | FaZe Clan (holograficzna) | Kraków 2017",
+        "name": "Naklejka | FaZe Clan (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19871,7 +19871,7 @@
     },
     {
         "id": "sticker-2096",
-        "name": "Naklejka | mousesports (holograficzna) | Kraków 2017",
+        "name": "Naklejka | mousesports (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19911,7 +19911,7 @@
     },
     {
         "id": "sticker-2100",
-        "name": "Naklejka | G2 Esports (holograficzna) | Kraków 2017",
+        "name": "Naklejka | G2 Esports (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19951,7 +19951,7 @@
     },
     {
         "id": "sticker-2104",
-        "name": "Naklejka | BIG (holograficzna) | Kraków 2017",
+        "name": "Naklejka | BIG (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -19991,7 +19991,7 @@
     },
     {
         "id": "sticker-2108",
-        "name": "Naklejka | Cloud9 (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Cloud9 (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -20031,7 +20031,7 @@
     },
     {
         "id": "sticker-2112",
-        "name": "Naklejka | PENTA Sports (holograficzna) | Kraków 2017",
+        "name": "Naklejka | PENTA Sports (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -20071,7 +20071,7 @@
     },
     {
         "id": "sticker-2116",
-        "name": "Naklejka | Flipsid3 Tactics (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Flipsid3 Tactics (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -20111,7 +20111,7 @@
     },
     {
         "id": "sticker-2120",
-        "name": "Naklejka | Immortals (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Immortals (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -20151,7 +20151,7 @@
     },
     {
         "id": "sticker-2124",
-        "name": "Naklejka | Vega Squadron (holograficzna) | Kraków 2017",
+        "name": "Naklejka | Vega Squadron (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -20191,7 +20191,7 @@
     },
     {
         "id": "sticker-2128",
-        "name": "Naklejka | PGL (holograficzna) | Kraków 2017",
+        "name": "Naklejka | PGL (hologramowa) | Kraków 2017",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -22641,7 +22641,7 @@
     },
     {
         "id": "sticker-2390",
-        "name": "Naklejka | Cheongsam (holograficzna)",
+        "name": "Naklejka | Cheongsam (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -22871,7 +22871,7 @@
     },
     {
         "id": "sticker-2413",
-        "name": "Naklejka | Bliźniacze koi (holograficzna)",
+        "name": "Naklejka | Bliźniacze koi (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -22931,7 +22931,7 @@
     },
     {
         "id": "sticker-2437",
-        "name": "Naklejka | Gambit Esports (holograficzna) | Boston 2018",
+        "name": "Naklejka | Gambit Esports (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -22971,7 +22971,7 @@
     },
     {
         "id": "sticker-2441",
-        "name": "Naklejka | 100 Thieves (holograficzna) | Boston 2018",
+        "name": "Naklejka | 100 Thieves (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23011,7 +23011,7 @@
     },
     {
         "id": "sticker-2445",
-        "name": "Naklejka | Astralis (holograficzna) | Boston 2018",
+        "name": "Naklejka | Astralis (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23051,7 +23051,7 @@
     },
     {
         "id": "sticker-2449",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | Boston 2018",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23091,7 +23091,7 @@
     },
     {
         "id": "sticker-2453",
-        "name": "Naklejka | Fnatic (holograficzna) | Boston 2018",
+        "name": "Naklejka | Fnatic (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23131,7 +23131,7 @@
     },
     {
         "id": "sticker-2457",
-        "name": "Naklejka | SK Gaming (holograficzna) | Boston 2018",
+        "name": "Naklejka | SK Gaming (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23171,7 +23171,7 @@
     },
     {
         "id": "sticker-2461",
-        "name": "Naklejka | BIG (holograficzna) | Boston 2018",
+        "name": "Naklejka | BIG (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23211,7 +23211,7 @@
     },
     {
         "id": "sticker-2465",
-        "name": "Naklejka | North (holograficzna) | Boston 2018",
+        "name": "Naklejka | North (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23251,7 +23251,7 @@
     },
     {
         "id": "sticker-2469",
-        "name": "Naklejka | G2 Esports (holograficzna) | Boston 2018",
+        "name": "Naklejka | G2 Esports (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23291,7 +23291,7 @@
     },
     {
         "id": "sticker-2473",
-        "name": "Naklejka | Cloud9 (holograficzna) | Boston 2018",
+        "name": "Naklejka | Cloud9 (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23331,7 +23331,7 @@
     },
     {
         "id": "sticker-2477",
-        "name": "Naklejka | Flipsid3 Tactics (holograficzna) | Boston 2018",
+        "name": "Naklejka | Flipsid3 Tactics (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23371,7 +23371,7 @@
     },
     {
         "id": "sticker-2481",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Boston 2018",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23411,7 +23411,7 @@
     },
     {
         "id": "sticker-2485",
-        "name": "Naklejka | mousesports (holograficzna) | Boston 2018",
+        "name": "Naklejka | mousesports (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23451,7 +23451,7 @@
     },
     {
         "id": "sticker-2489",
-        "name": "Naklejka | Sprout Esports (holograficzna) | Boston 2018",
+        "name": "Naklejka | Sprout Esports (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23491,7 +23491,7 @@
     },
     {
         "id": "sticker-2493",
-        "name": "Naklejka | FaZe Clan (holograficzna) | Boston 2018",
+        "name": "Naklejka | FaZe Clan (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23531,7 +23531,7 @@
     },
     {
         "id": "sticker-2497",
-        "name": "Naklejka | Vega Squadron (holograficzna) | Boston 2018",
+        "name": "Naklejka | Vega Squadron (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23571,7 +23571,7 @@
     },
     {
         "id": "sticker-2501",
-        "name": "Naklejka | Space Soldiers (holograficzna) | Boston 2018",
+        "name": "Naklejka | Space Soldiers (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23611,7 +23611,7 @@
     },
     {
         "id": "sticker-2505",
-        "name": "Naklejka | Team Liquid (holograficzna) | Boston 2018",
+        "name": "Naklejka | Team Liquid (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23651,7 +23651,7 @@
     },
     {
         "id": "sticker-2509",
-        "name": "Naklejka | Avangar (holograficzna) | Boston 2018",
+        "name": "Naklejka | Avangar (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23691,7 +23691,7 @@
     },
     {
         "id": "sticker-2513",
-        "name": "Naklejka | Renegades (holograficzna) | Boston 2018",
+        "name": "Naklejka | Renegades (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23731,7 +23731,7 @@
     },
     {
         "id": "sticker-2517",
-        "name": "Naklejka | Team EnVyUs (holograficzna) | Boston 2018",
+        "name": "Naklejka | Team EnVyUs (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23771,7 +23771,7 @@
     },
     {
         "id": "sticker-2521",
-        "name": "Naklejka | Misfits Gaming (holograficzna) | Boston 2018",
+        "name": "Naklejka | Misfits Gaming (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23811,7 +23811,7 @@
     },
     {
         "id": "sticker-2525",
-        "name": "Naklejka | Quantum Bellator Fire (holograficzna) | Boston 2018",
+        "name": "Naklejka | Quantum Bellator Fire (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23857,7 +23857,7 @@
     },
     {
         "id": "sticker-2529",
-        "name": "Naklejka | Tyloo (holograficzna) | Boston 2018",
+        "name": "Naklejka | Tyloo (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -23909,7 +23909,7 @@
     },
     {
         "id": "sticker-2533",
-        "name": "Naklejka | ELEAGUE (holograficzna) | Boston 2018",
+        "name": "Naklejka | ELEAGUE (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -27619,7 +27619,7 @@
     },
     {
         "id": "sticker-2929",
-        "name": "Naklejka | Pochłaniający płomień (holograficzna)",
+        "name": "Naklejka | Pochłaniający płomień (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -27629,7 +27629,7 @@
     },
     {
         "id": "sticker-2930",
-        "name": "Naklejka | Przyjacielski ogień (holograficzna)",
+        "name": "Naklejka | Przyjacielski ogień (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -27639,7 +27639,7 @@
     },
     {
         "id": "sticker-2931",
-        "name": "Naklejka | Ekspert odbijania (holograficzna)",
+        "name": "Naklejka | Ekspert odbijania (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -27649,7 +27649,7 @@
     },
     {
         "id": "sticker-2932",
-        "name": "Naklejka | Krótkie rączki (holograficzna)",
+        "name": "Naklejka | Krótkie rączki (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -27689,7 +27689,7 @@
     },
     {
         "id": "sticker-2936",
-        "name": "Naklejka | Flash Gaming (holograficzna) | Boston 2018",
+        "name": "Naklejka | Flash Gaming (hologramowa) | Boston 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -27879,7 +27879,7 @@
     },
     {
         "id": "sticker-2956",
-        "name": "Naklejka | Cloud9 (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Cloud9 (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -27919,7 +27919,7 @@
     },
     {
         "id": "sticker-2960",
-        "name": "Naklejka | FaZe Clan (holograficzna) | Londyn 2018",
+        "name": "Naklejka | FaZe Clan (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -27959,7 +27959,7 @@
     },
     {
         "id": "sticker-2964",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -27999,7 +27999,7 @@
     },
     {
         "id": "sticker-2968",
-        "name": "Naklejka | MIBR (holograficzna) | Londyn 2018",
+        "name": "Naklejka | MIBR (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28039,7 +28039,7 @@
     },
     {
         "id": "sticker-2972",
-        "name": "Naklejka | mousesports (holograficzna) | Londyn 2018",
+        "name": "Naklejka | mousesports (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28079,7 +28079,7 @@
     },
     {
         "id": "sticker-2976",
-        "name": "Naklejka | Winstrike Team (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Winstrike Team (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28119,7 +28119,7 @@
     },
     {
         "id": "sticker-2980",
-        "name": "Naklejka | G2 Esports (holograficzna) | Londyn 2018",
+        "name": "Naklejka | G2 Esports (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28159,7 +28159,7 @@
     },
     {
         "id": "sticker-2984",
-        "name": "Naklejka | Fnatic (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Fnatic (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28199,7 +28199,7 @@
     },
     {
         "id": "sticker-2988",
-        "name": "Naklejka | Gambit Esports (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Gambit Esports (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28239,7 +28239,7 @@
     },
     {
         "id": "sticker-2992",
-        "name": "Naklejka | Vega Squadron (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Vega Squadron (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28279,7 +28279,7 @@
     },
     {
         "id": "sticker-2996",
-        "name": "Naklejka | Space Soldiers (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Space Soldiers (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28319,7 +28319,7 @@
     },
     {
         "id": "sticker-3000",
-        "name": "Naklejka | BIG (holograficzna) | Londyn 2018",
+        "name": "Naklejka | BIG (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28359,7 +28359,7 @@
     },
     {
         "id": "sticker-3004",
-        "name": "Naklejka | Astralis (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Astralis (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28399,7 +28399,7 @@
     },
     {
         "id": "sticker-3008",
-        "name": "Naklejka | Team Liquid (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Team Liquid (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28439,7 +28439,7 @@
     },
     {
         "id": "sticker-3012",
-        "name": "Naklejka | North (holograficzna) | Londyn 2018",
+        "name": "Naklejka | North (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28479,7 +28479,7 @@
     },
     {
         "id": "sticker-3016",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28519,7 +28519,7 @@
     },
     {
         "id": "sticker-3020",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28559,7 +28559,7 @@
     },
     {
         "id": "sticker-3024",
-        "name": "Naklejka | compLexity Gaming (holograficzna) | Londyn 2018",
+        "name": "Naklejka | compLexity Gaming (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28599,7 +28599,7 @@
     },
     {
         "id": "sticker-3028",
-        "name": "Naklejka | HellRaisers (holograficzna) | Londyn 2018",
+        "name": "Naklejka | HellRaisers (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28639,7 +28639,7 @@
     },
     {
         "id": "sticker-3032",
-        "name": "Naklejka | Renegades (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Renegades (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28679,7 +28679,7 @@
     },
     {
         "id": "sticker-3036",
-        "name": "Naklejka | OpTic Gaming (holograficzna) | Londyn 2018",
+        "name": "Naklejka | OpTic Gaming (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28719,7 +28719,7 @@
     },
     {
         "id": "sticker-3040",
-        "name": "Naklejka | Rogue (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Rogue (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28759,7 +28759,7 @@
     },
     {
         "id": "sticker-3044",
-        "name": "Naklejka | Team Spirit (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Team Spirit (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28799,7 +28799,7 @@
     },
     {
         "id": "sticker-3048",
-        "name": "Naklejka | Tyloo (holograficzna) | Londyn 2018",
+        "name": "Naklejka | Tyloo (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -28839,7 +28839,7 @@
     },
     {
         "id": "sticker-3052",
-        "name": "Naklejka | FACEIT (holograficzna) | Londyn 2018",
+        "name": "Naklejka | FACEIT (hologramowa) | Londyn 2018",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32499,7 +32499,7 @@
     },
     {
         "id": "sticker-3443",
-        "name": "Naklejka | Złoty laur (holograficzna)",
+        "name": "Naklejka | Złoty laur (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -32519,7 +32519,7 @@
     },
     {
         "id": "sticker-3445",
-        "name": "Naklejka | Mistrzowski obrońca (holograficzna)",
+        "name": "Naklejka | Mistrzowski obrońca (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -32539,7 +32539,7 @@
     },
     {
         "id": "sticker-3447",
-        "name": "Naklejka | Elitarny mistrzowski obrońca (holograficzna)",
+        "name": "Naklejka | Elitarny mistrzowski obrońca (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -32559,7 +32559,7 @@
     },
     {
         "id": "sticker-3449",
-        "name": "Naklejka | Wybitny mistrzowski obrońca (holograficzna)",
+        "name": "Naklejka | Wybitny mistrzowski obrońca (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -32579,7 +32579,7 @@
     },
     {
         "id": "sticker-3451",
-        "name": "Naklejka | Legendarny orzeł (holograficzna)",
+        "name": "Naklejka | Legendarny orzeł (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -32599,7 +32599,7 @@
     },
     {
         "id": "sticker-3453",
-        "name": "Naklejka | Mistrzowski legendarny orzeł (holograficzna)",
+        "name": "Naklejka | Mistrzowski legendarny orzeł (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -32619,7 +32619,7 @@
     },
     {
         "id": "sticker-3455",
-        "name": "Naklejka | Mistrzowska pierwsza klasa (holograficzna)",
+        "name": "Naklejka | Mistrzowska pierwsza klasa (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -32659,7 +32659,7 @@
     },
     {
         "id": "sticker-3461",
-        "name": "Naklejka | Astralis (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Astralis (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32699,7 +32699,7 @@
     },
     {
         "id": "sticker-3465",
-        "name": "Naklejka | Avangar (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Avangar (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32739,7 +32739,7 @@
     },
     {
         "id": "sticker-3469",
-        "name": "Naklejka | BIG (holograficzna) | Katowice 2019",
+        "name": "Naklejka | BIG (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32779,7 +32779,7 @@
     },
     {
         "id": "sticker-3473",
-        "name": "Naklejka | Cloud9 (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Cloud9 (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32819,7 +32819,7 @@
     },
     {
         "id": "sticker-3477",
-        "name": "Naklejka | compLexity Gaming (holograficzna) | Katowice 2019",
+        "name": "Naklejka | compLexity Gaming (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32859,7 +32859,7 @@
     },
     {
         "id": "sticker-3481",
-        "name": "Naklejka | ENCE (holograficzna) | Katowice 2019",
+        "name": "Naklejka | ENCE (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32899,7 +32899,7 @@
     },
     {
         "id": "sticker-3485",
-        "name": "Naklejka | FaZe Clan (holograficzna) | Katowice 2019",
+        "name": "Naklejka | FaZe Clan (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32939,7 +32939,7 @@
     },
     {
         "id": "sticker-3489",
-        "name": "Naklejka | Fnatic (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Fnatic (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -32979,7 +32979,7 @@
     },
     {
         "id": "sticker-3493",
-        "name": "Naklejka | FURIA (holograficzna) | Katowice 2019",
+        "name": "Naklejka | FURIA (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33019,7 +33019,7 @@
     },
     {
         "id": "sticker-3497",
-        "name": "Naklejka | G2 Esports (holograficzna) | Katowice 2019",
+        "name": "Naklejka | G2 Esports (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33059,7 +33059,7 @@
     },
     {
         "id": "sticker-3501",
-        "name": "Naklejka | Grayhound Gaming (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Grayhound Gaming (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33099,7 +33099,7 @@
     },
     {
         "id": "sticker-3505",
-        "name": "Naklejka | HellRaisers (holograficzna) | Katowice 2019",
+        "name": "Naklejka | HellRaisers (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33139,7 +33139,7 @@
     },
     {
         "id": "sticker-3509",
-        "name": "Naklejka | MIBR (holograficzna) | Katowice 2019",
+        "name": "Naklejka | MIBR (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33179,7 +33179,7 @@
     },
     {
         "id": "sticker-3513",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33219,7 +33219,7 @@
     },
     {
         "id": "sticker-3517",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33259,7 +33259,7 @@
     },
     {
         "id": "sticker-3521",
-        "name": "Naklejka | NRG (holograficzna) | Katowice 2019",
+        "name": "Naklejka | NRG (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33299,7 +33299,7 @@
     },
     {
         "id": "sticker-3525",
-        "name": "Naklejka | Renegades (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Renegades (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33339,7 +33339,7 @@
     },
     {
         "id": "sticker-3529",
-        "name": "Naklejka | Team Liquid (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Team Liquid (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33379,7 +33379,7 @@
     },
     {
         "id": "sticker-3533",
-        "name": "Naklejka | Team Spirit (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Team Spirit (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33419,7 +33419,7 @@
     },
     {
         "id": "sticker-3537",
-        "name": "Naklejka | Tyloo (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Tyloo (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33459,7 +33459,7 @@
     },
     {
         "id": "sticker-3541",
-        "name": "Naklejka | Vega Squadron (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Vega Squadron (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33499,7 +33499,7 @@
     },
     {
         "id": "sticker-3545",
-        "name": "Naklejka | ViCi Gaming (holograficzna) | Katowice 2019",
+        "name": "Naklejka | ViCi Gaming (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33539,7 +33539,7 @@
     },
     {
         "id": "sticker-3549",
-        "name": "Naklejka | Vitality (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Vitality (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33579,7 +33579,7 @@
     },
     {
         "id": "sticker-3553",
-        "name": "Naklejka | Winstrike Team (holograficzna) | Katowice 2019",
+        "name": "Naklejka | Winstrike Team (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie graczy i organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -33619,7 +33619,7 @@
     },
     {
         "id": "sticker-3557",
-        "name": "Naklejka | IEM (holograficzna) | Katowice 2019",
+        "name": "Naklejka | IEM (hologramowa) | Katowice 2019",
         "description": "50% wpływów ze sprzedaży tej naklejki zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.",
         "rarity": {
             "id": "rarity_mythical",
@@ -37259,7 +37259,7 @@
     },
     {
         "id": "sticker-3946",
-        "name": "Naklejka | Zwabiony (holograficzna)",
+        "name": "Naklejka | Zwabiony (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37299,7 +37299,7 @@
     },
     {
         "id": "sticker-3951",
-        "name": "Naklejka | Gdak (holograficzna)",
+        "name": "Naklejka | Gdak (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37319,7 +37319,7 @@
     },
     {
         "id": "sticker-3953",
-        "name": "Naklejka | Pierwsza krew (holograficzna)",
+        "name": "Naklejka | Pierwsza krew (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37339,7 +37339,7 @@
     },
     {
         "id": "sticker-3955",
-        "name": "Naklejka | Darmowe uściski (holograficzna)",
+        "name": "Naklejka | Darmowe uściski (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37379,7 +37379,7 @@
     },
     {
         "id": "sticker-3960",
-        "name": "Naklejka | Ukłucie (holograficzna)",
+        "name": "Naklejka | Ukłucie (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37399,7 +37399,7 @@
     },
     {
         "id": "sticker-3962",
-        "name": "Naklejka | Padlinożerca (holograficzna)",
+        "name": "Naklejka | Padlinożerca (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37529,7 +37529,7 @@
     },
     {
         "id": "sticker-3976",
-        "name": "Naklejka | Martwy drób (holograficzna)",
+        "name": "Naklejka | Martwy drób (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37539,7 +37539,7 @@
     },
     {
         "id": "sticker-3977",
-        "name": "Naklejka | Dip dla dwojga (holograficzna)",
+        "name": "Naklejka | Dip dla dwojga (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37549,7 +37549,7 @@
     },
     {
         "id": "sticker-3978",
-        "name": "Naklejka | Mordercze ptactwo (holograficzna)",
+        "name": "Naklejka | Mordercze ptactwo (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37559,7 +37559,7 @@
     },
     {
         "id": "sticker-3979",
-        "name": "Naklejka | Gorące skrzydełka (holograficzna)",
+        "name": "Naklejka | Gorące skrzydełka (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37569,7 +37569,7 @@
     },
     {
         "id": "sticker-3980",
-        "name": "Naklejka | Bombowe gniazdko (holograficzna)",
+        "name": "Naklejka | Bombowe gniazdko (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37609,7 +37609,7 @@
     },
     {
         "id": "sticker-4020",
-        "name": "Naklejka | Astralis (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Astralis (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37649,7 +37649,7 @@
     },
     {
         "id": "sticker-4024",
-        "name": "Naklejka | ENCE (holograficzna) | Berlin 2019",
+        "name": "Naklejka | ENCE (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37689,7 +37689,7 @@
     },
     {
         "id": "sticker-4028",
-        "name": "Naklejka | MIBR (holograficzna) | Berlin 2019",
+        "name": "Naklejka | MIBR (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37729,7 +37729,7 @@
     },
     {
         "id": "sticker-4032",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37769,7 +37769,7 @@
     },
     {
         "id": "sticker-4036",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37809,7 +37809,7 @@
     },
     {
         "id": "sticker-4040",
-        "name": "Naklejka | FaZe Clan (holograficzna) | Berlin 2019",
+        "name": "Naklejka | FaZe Clan (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37849,7 +37849,7 @@
     },
     {
         "id": "sticker-4044",
-        "name": "Naklejka | Team Liquid (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Team Liquid (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37889,7 +37889,7 @@
     },
     {
         "id": "sticker-4048",
-        "name": "Naklejka | Renegades (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Renegades (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37929,7 +37929,7 @@
     },
     {
         "id": "sticker-4052",
-        "name": "Naklejka | compLexity Gaming (holograficzna) | Berlin 2019",
+        "name": "Naklejka | compLexity Gaming (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37969,7 +37969,7 @@
     },
     {
         "id": "sticker-4056",
-        "name": "Naklejka | HellRaisers (holograficzna) | Berlin 2019",
+        "name": "Naklejka | HellRaisers (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38009,7 +38009,7 @@
     },
     {
         "id": "sticker-4060",
-        "name": "Naklejka | Avangar (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Avangar (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38049,7 +38049,7 @@
     },
     {
         "id": "sticker-4064",
-        "name": "Naklejka | G2 Esports (holograficzna) | Berlin 2019",
+        "name": "Naklejka | G2 Esports (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38089,7 +38089,7 @@
     },
     {
         "id": "sticker-4068",
-        "name": "Naklejka | Vitality (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Vitality (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38129,7 +38129,7 @@
     },
     {
         "id": "sticker-4072",
-        "name": "Naklejka | Grayhound Gaming (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Grayhound Gaming (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38289,7 +38289,7 @@
     },
     {
         "id": "sticker-4088",
-        "name": "Naklejka | Tyloo (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Tyloo (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38329,7 +38329,7 @@
     },
     {
         "id": "sticker-4092",
-        "name": "Naklejka | FURIA (holograficzna) | Berlin 2019",
+        "name": "Naklejka | FURIA (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38369,7 +38369,7 @@
     },
     {
         "id": "sticker-4096",
-        "name": "Naklejka | CR4ZY (holograficzna) | Berlin 2019",
+        "name": "Naklejka | CR4ZY (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38409,7 +38409,7 @@
     },
     {
         "id": "sticker-4100",
-        "name": "Naklejka | Syman Gaming (holograficzna) | Berlin 2019",
+        "name": "Naklejka | Syman Gaming (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38449,7 +38449,7 @@
     },
     {
         "id": "sticker-4104",
-        "name": "Naklejka | North (holograficzna) | Berlin 2019",
+        "name": "Naklejka | North (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38489,7 +38489,7 @@
     },
     {
         "id": "sticker-4108",
-        "name": "Naklejka | DreamEaters (holograficzna) | Berlin 2019",
+        "name": "Naklejka | DreamEaters (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38529,7 +38529,7 @@
     },
     {
         "id": "sticker-4112",
-        "name": "Naklejka | INTZ E-SPORTS CLUB (holograficzna) | Berlin 2019",
+        "name": "Naklejka | INTZ E-SPORTS CLUB (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -38569,7 +38569,7 @@
     },
     {
         "id": "sticker-4116",
-        "name": "Naklejka | StarLadder (holograficzna) | Berlin 2019",
+        "name": "Naklejka | StarLadder (hologramowa) | Berlin 2019",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42259,7 +42259,7 @@
     },
     {
         "id": "sticker-4510",
-        "name": "Naklejka | Mózg operacji (holograficzna)",
+        "name": "Naklejka | Mózg operacji (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42269,7 +42269,7 @@
     },
     {
         "id": "sticker-4511",
-        "name": "Naklejka | Spętany w sieć (holograficzna)",
+        "name": "Naklejka | Spętany w sieć (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42289,7 +42289,7 @@
     },
     {
         "id": "sticker-4513",
-        "name": "Naklejka | Klasyk CS20 (holograficzna)",
+        "name": "Naklejka | Klasyk CS20 (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42349,7 +42349,7 @@
     },
     {
         "id": "sticker-4519",
-        "name": "Naklejka | Clutchman (holograficzna)",
+        "name": "Naklejka | Clutchman (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42389,7 +42389,7 @@
     },
     {
         "id": "sticker-4523",
-        "name": "Naklejka | Świnka morska (holograficzna)",
+        "name": "Naklejka | Świnka morska (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42409,7 +42409,7 @@
     },
     {
         "id": "sticker-4525",
-        "name": "Naklejka | Leci granat (holograficzna)",
+        "name": "Naklejka | Leci granat (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42439,7 +42439,7 @@
     },
     {
         "id": "sticker-4528",
-        "name": "Naklejka | Podsadzka (holograficzna)",
+        "name": "Naklejka | Podsadzka (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42449,7 +42449,7 @@
     },
     {
         "id": "sticker-4529",
-        "name": "Naklejka | Rush 4x20 (holograficzna)",
+        "name": "Naklejka | Rush 4x20 (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42589,7 +42589,7 @@
     },
     {
         "id": "sticker-4543",
-        "name": "Naklejka | Skrytobójca (holograficzna)",
+        "name": "Naklejka | Skrytobójca (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42599,7 +42599,7 @@
     },
     {
         "id": "sticker-4544",
-        "name": "Naklejka | Chief (holograficzna)",
+        "name": "Naklejka | Chief (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42609,7 +42609,7 @@
     },
     {
         "id": "sticker-4545",
-        "name": "Naklejka | Spopielenie (holograficzna)",
+        "name": "Naklejka | Spopielenie (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42619,7 +42619,7 @@
     },
     {
         "id": "sticker-4546",
-        "name": "Naklejka | Killjoy (holograficzna)",
+        "name": "Naklejka | Killjoy (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42629,7 +42629,7 @@
     },
     {
         "id": "sticker-4547",
-        "name": "Naklejka | Noble (holograficzna)",
+        "name": "Naklejka | Noble (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42669,7 +42669,7 @@
     },
     {
         "id": "sticker-4602",
-        "name": "Naklejka | Wortygont-malarz",
+        "name": "Naklejka | Malarz vortigaunt",
         "description": "Pamiątkowa naklejka Half-Life: Alyx",
         "rarity": {
             "id": "rarity_rare",
@@ -42729,7 +42729,7 @@
     },
     {
         "id": "sticker-4608",
-        "name": "Naklejka | Wortygont (holograficzna)",
+        "name": "Naklejka | Vortigaunt (hologramowa)",
         "description": "Pamiątkowa naklejka Half-Life: Alyx",
         "rarity": {
             "id": "rarity_mythical",
@@ -42739,7 +42739,7 @@
     },
     {
         "id": "sticker-4609",
-        "name": "Naklejka | Wielki przytulas (holograficzna)",
+        "name": "Naklejka | Wielki przytulas (hologramowa)",
         "description": "Pamiątkowa naklejka Half-Life: Alyx",
         "rarity": {
             "id": "rarity_mythical",
@@ -42749,7 +42749,7 @@
     },
     {
         "id": "sticker-4610",
-        "name": "Naklejka | Hełm Kombinatu (holograficzna)",
+        "name": "Naklejka | Hełm Kombinatu (hologramowa)",
         "description": "Pamiątkowa naklejka Half-Life: Alyx",
         "rarity": {
             "id": "rarity_mythical",
@@ -42759,7 +42759,7 @@
     },
     {
         "id": "sticker-4611",
-        "name": "Naklejka | Lambda (holograficzna)",
+        "name": "Naklejka | Lambda (hologramowa)",
         "description": "Pamiątkowa naklejka Half-Life: Alyx",
         "rarity": {
             "id": "rarity_mythical",
@@ -42889,7 +42889,7 @@
     },
     {
         "id": "sticker-4624",
-        "name": "Naklejka | Herezja (holograficzna)",
+        "name": "Naklejka | Herezja (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42899,7 +42899,7 @@
     },
     {
         "id": "sticker-4625",
-        "name": "Naklejka | Władca Czaszek (holograficzna)",
+        "name": "Naklejka | Władca Czaszek (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42909,7 +42909,7 @@
     },
     {
         "id": "sticker-4626",
-        "name": "Naklejka | Kosmiczny Marine (holograficzna)",
+        "name": "Naklejka | Kosmiczny Marine (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42919,7 +42919,7 @@
     },
     {
         "id": "sticker-4627",
-        "name": "Naklejka | Tyran Roju Tyranidów (holograficzna)",
+        "name": "Naklejka | Tyran Roju Tyranidów (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43379,7 +43379,7 @@
     },
     {
         "id": "sticker-4691",
-        "name": "Naklejka | Po ciężkich walkach (holograficzna)",
+        "name": "Naklejka | Po ciężkich walkach (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43389,7 +43389,7 @@
     },
     {
         "id": "sticker-4692",
-        "name": "Naklejka | Złamany kieł (holograficzna)",
+        "name": "Naklejka | Złamany kieł (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43399,7 +43399,7 @@
     },
     {
         "id": "sticker-4693",
-        "name": "Naklejka | Zwinięte uderzenie (holograficzna)",
+        "name": "Naklejka | Zwinięte uderzenie (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43409,7 +43409,7 @@
     },
     {
         "id": "sticker-4694",
-        "name": "Naklejka | Cętkowany wróg (holograficzna)",
+        "name": "Naklejka | Cętkowany wróg (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43449,7 +43449,7 @@
     },
     {
         "id": "sticker-4702",
-        "name": "Naklejka | Vitality (holograficzna) | RMR 2020",
+        "name": "Naklejka | Vitality (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43489,7 +43489,7 @@
     },
     {
         "id": "sticker-4706",
-        "name": "Naklejka | Heroic (holograficzna) | RMR 2020",
+        "name": "Naklejka | Heroic (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43529,7 +43529,7 @@
     },
     {
         "id": "sticker-4710",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | RMR 2020",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43569,7 +43569,7 @@
     },
     {
         "id": "sticker-4714",
-        "name": "Naklejka | Astralis (holograficzna) | RMR 2020",
+        "name": "Naklejka | Astralis (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43609,7 +43609,7 @@
     },
     {
         "id": "sticker-4718",
-        "name": "Naklejka | BIG (holograficzna) | RMR 2020",
+        "name": "Naklejka | BIG (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43649,7 +43649,7 @@
     },
     {
         "id": "sticker-4722",
-        "name": "Naklejka | Fnatic (holograficzna) | RMR 2020",
+        "name": "Naklejka | Fnatic (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43689,7 +43689,7 @@
     },
     {
         "id": "sticker-4726",
-        "name": "Naklejka | G2 (holograficzna) | RMR 2020",
+        "name": "Naklejka | G2 (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43729,7 +43729,7 @@
     },
     {
         "id": "sticker-4730",
-        "name": "Naklejka | OG (holograficzna) | RMR 2020",
+        "name": "Naklejka | OG (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43769,7 +43769,7 @@
     },
     {
         "id": "sticker-4734",
-        "name": "Naklejka | GODSENT (holograficzna) | RMR 2020",
+        "name": "Naklejka | GODSENT (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43809,7 +43809,7 @@
     },
     {
         "id": "sticker-4738",
-        "name": "Naklejka | FaZe (holograficzna) | RMR 2020",
+        "name": "Naklejka | FaZe (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43849,7 +43849,7 @@
     },
     {
         "id": "sticker-4742",
-        "name": "Naklejka | North (holograficzna) | RMR 2020",
+        "name": "Naklejka | North (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43889,7 +43889,7 @@
     },
     {
         "id": "sticker-4746",
-        "name": "Naklejka | Spirit (holograficzna) | RMR 2020",
+        "name": "Naklejka | Spirit (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43929,7 +43929,7 @@
     },
     {
         "id": "sticker-4750",
-        "name": "Naklejka | Natus Vincere (holograficzna) | RMR 2020",
+        "name": "Naklejka | Natus Vincere (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43969,7 +43969,7 @@
     },
     {
         "id": "sticker-4754",
-        "name": "Naklejka | Nemiga (holograficzna) | RMR 2020",
+        "name": "Naklejka | Nemiga (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44009,7 +44009,7 @@
     },
     {
         "id": "sticker-4758",
-        "name": "Naklejka | Virtus.pro (holograficzna) | RMR 2020",
+        "name": "Naklejka | Virtus.pro (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44049,7 +44049,7 @@
     },
     {
         "id": "sticker-4762",
-        "name": "Naklejka | ESPADA (holograficzna) | RMR 2020",
+        "name": "Naklejka | ESPADA (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44089,7 +44089,7 @@
     },
     {
         "id": "sticker-4766",
-        "name": "Naklejka | Evil Geniuses (holograficzna) | RMR 2020",
+        "name": "Naklejka | Evil Geniuses (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44129,7 +44129,7 @@
     },
     {
         "id": "sticker-4770",
-        "name": "Naklejka | 100 Thieves (holograficzna) | RMR 2020",
+        "name": "Naklejka | 100 Thieves (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44169,7 +44169,7 @@
     },
     {
         "id": "sticker-4774",
-        "name": "Naklejka | FURIA (holograficzna) | RMR 2020",
+        "name": "Naklejka | FURIA (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44209,7 +44209,7 @@
     },
     {
         "id": "sticker-4778",
-        "name": "Naklejka | Liquid (holograficzna) | RMR 2020",
+        "name": "Naklejka | Liquid (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44249,7 +44249,7 @@
     },
     {
         "id": "sticker-4782",
-        "name": "Naklejka | Gen.G (holograficzna) | RMR 2020",
+        "name": "Naklejka | Gen.G (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44289,7 +44289,7 @@
     },
     {
         "id": "sticker-4786",
-        "name": "Naklejka | Boom (holograficzna) | RMR 2020",
+        "name": "Naklejka | Boom (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44329,7 +44329,7 @@
     },
     {
         "id": "sticker-4790",
-        "name": "Naklejka | Renegades (holograficzna) | RMR 2020",
+        "name": "Naklejka | Renegades (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44369,7 +44369,7 @@
     },
     {
         "id": "sticker-4794",
-        "name": "Naklejka | TYLOO (holograficzna) | RMR 2020",
+        "name": "Naklejka | TYLOO (hologramowa) | RMR 2020",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44499,7 +44499,7 @@
     },
     {
         "id": "sticker-4807",
-        "name": "Naklejka | Kiepsko narysowana Ava (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowana Ava (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44509,7 +44509,7 @@
     },
     {
         "id": "sticker-4808",
-        "name": "Naklejka | Kiepsko narysowany Bałkańczyk (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany Bałkańczyk (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44519,7 +44519,7 @@
     },
     {
         "id": "sticker-4809",
-        "name": "Naklejka | Kiepsko narysowany Cholerny Darryl (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany Cholerny Darryl (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44529,7 +44529,7 @@
     },
     {
         "id": "sticker-4810",
-        "name": "Naklejka | Kiepsko narysowany kurczak (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany kurczak (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44539,7 +44539,7 @@
     },
     {
         "id": "sticker-4811",
-        "name": "Naklejka | Kiepsko narysowany agent FBI (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany agent FBI (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44549,7 +44549,7 @@
     },
     {
         "id": "sticker-4812",
-        "name": "Naklejka | Kiepsko narysowany agent IDF (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany agent IDF (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44559,7 +44559,7 @@
     },
     {
         "id": "sticker-4813",
-        "name": "Naklejka | Kiepsko narysowany agent Leet Crew (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany agent Leet Crew (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44569,7 +44569,7 @@
     },
     {
         "id": "sticker-4814",
-        "name": "Naklejka | Kiepsko narysowany Numer K (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany Numer K (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44579,7 +44579,7 @@
     },
     {
         "id": "sticker-4815",
-        "name": "Naklejka | Kiepsko narysowany agent SAS (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany agent SAS (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44589,7 +44589,7 @@
     },
     {
         "id": "sticker-4816",
-        "name": "Naklejka | Kiepsko narysowany terrorysta (holograficzna)",
+        "name": "Naklejka | Kiepsko narysowany terrorysta (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44959,7 +44959,7 @@
     },
     {
         "id": "sticker-4853",
-        "name": "Naklejka | Bajera – cukierek (holograficzna)",
+        "name": "Naklejka | Bajera – cukierek (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44969,7 +44969,7 @@
     },
     {
         "id": "sticker-4854",
-        "name": "Naklejka | Bajera – płomień (holograficzna)",
+        "name": "Naklejka | Bajera – płomień (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44979,7 +44979,7 @@
     },
     {
         "id": "sticker-4855",
-        "name": "Naklejka | Bajera – arbuz (holograficzna)",
+        "name": "Naklejka | Bajera – arbuz (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44989,7 +44989,7 @@
     },
     {
         "id": "sticker-4856",
-        "name": "Naklejka | Bajera – Miami (holograficzna)",
+        "name": "Naklejka | Bajera – Miami (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44999,7 +44999,7 @@
     },
     {
         "id": "sticker-4857",
-        "name": "Naklejka | Refleks – opal (holograficzna)",
+        "name": "Naklejka | Refleks – opal (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45009,7 +45009,7 @@
     },
     {
         "id": "sticker-4858",
-        "name": "Naklejka | Refleks – zachód Słońca nad oceanem (holograficzna)",
+        "name": "Naklejka | Refleks – zachód Słońca nad oceanem (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45019,7 +45019,7 @@
     },
     {
         "id": "sticker-4859",
-        "name": "Naklejka | Refleks – rtęć (holograficzna)",
+        "name": "Naklejka | Refleks – rtęć (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45029,7 +45029,7 @@
     },
     {
         "id": "sticker-4860",
-        "name": "Naklejka | Refleks – Miami (holograficzna)",
+        "name": "Naklejka | Refleks – Miami (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45039,7 +45039,7 @@
     },
     {
         "id": "sticker-4861",
-        "name": "Naklejka | Przypływ – arbuz (holograficzna)",
+        "name": "Naklejka | Przypływ – arbuz (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45049,7 +45049,7 @@
     },
     {
         "id": "sticker-4862",
-        "name": "Naklejka | Przypływ – toksyczność (holograficzna)",
+        "name": "Naklejka | Przypływ – toksyczność (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45059,7 +45059,7 @@
     },
     {
         "id": "sticker-4863",
-        "name": "Naklejka | Przypływ – wata cukrowa (holograficzna)",
+        "name": "Naklejka | Przypływ – wata cukrowa (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45069,7 +45069,7 @@
     },
     {
         "id": "sticker-4864",
-        "name": "Naklejka | Przypływ – Miami (holograficzna)",
+        "name": "Naklejka | Przypływ – Miami (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45079,7 +45079,7 @@
     },
     {
         "id": "sticker-4865",
-        "name": "Naklejka | Wprawny surfer – Miami (holograficzna)",
+        "name": "Naklejka | Wprawny surfer – Miami (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45089,7 +45089,7 @@
     },
     {
         "id": "sticker-4866",
-        "name": "Naklejka | Wprawny surfer – zachód Słońca nad oceanem (holograficzna)",
+        "name": "Naklejka | Wprawny surfer – zachód Słońca nad oceanem (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45099,7 +45099,7 @@
     },
     {
         "id": "sticker-4867",
-        "name": "Naklejka | Wprawny surfer – koral (holograficzna)",
+        "name": "Naklejka | Wprawny surfer – koral (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45109,7 +45109,7 @@
     },
     {
         "id": "sticker-4868",
-        "name": "Naklejka | Wprawny surfer – guma balonowa (holograficzna)",
+        "name": "Naklejka | Wprawny surfer – guma balonowa (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45119,7 +45119,7 @@
     },
     {
         "id": "sticker-4869",
-        "name": "Naklejka | Płynny ruch – uchowiec (holograficzna)",
+        "name": "Naklejka | Płynny ruch – uchowiec (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45129,7 +45129,7 @@
     },
     {
         "id": "sticker-4870",
-        "name": "Naklejka | Płynny ruch – arbuz (holograficzna)",
+        "name": "Naklejka | Płynny ruch – arbuz (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45139,7 +45139,7 @@
     },
     {
         "id": "sticker-4871",
-        "name": "Naklejka | Płynny ruch – pierścień nastroju (holograficzna)",
+        "name": "Naklejka | Płynny ruch – pierścień nastroju (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45149,7 +45149,7 @@
     },
     {
         "id": "sticker-4872",
-        "name": "Naklejka | Płynny ruch – neonowy opal (holograficzna)",
+        "name": "Naklejka | Płynny ruch – neonowy opal (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45159,7 +45159,7 @@
     },
     {
         "id": "sticker-4873",
-        "name": "Naklejka | Stopień 6 – płomień (holograficzna)",
+        "name": "Naklejka | Stopień 6 – płomień (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45169,7 +45169,7 @@
     },
     {
         "id": "sticker-4874",
-        "name": "Naklejka | Stopień 6 – arbuz (holograficzna)",
+        "name": "Naklejka | Stopień 6 – arbuz (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45179,7 +45179,7 @@
     },
     {
         "id": "sticker-4875",
-        "name": "Naklejka | Stopień 6 – Miami (holograficzna)",
+        "name": "Naklejka | Stopień 6 – Miami (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45189,7 +45189,7 @@
     },
     {
         "id": "sticker-4876",
-        "name": "Naklejka | Stopień 6 – kuźnia (holograficzna)",
+        "name": "Naklejka | Stopień 6 – kuźnia (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45369,7 +45369,7 @@
     },
     {
         "id": "sticker-4894",
-        "name": "Naklejka | Cyber Romanow (holograficzna)",
+        "name": "Naklejka | Cyber Romanow (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45379,7 +45379,7 @@
     },
     {
         "id": "sticker-4895",
-        "name": "Naklejka | Kontakt wzrokowy (holograficzna)",
+        "name": "Naklejka | Kontakt wzrokowy (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45389,7 +45389,7 @@
     },
     {
         "id": "sticker-4896",
-        "name": "Naklejka | Wrażliwa zawartość (holograficzna)",
+        "name": "Naklejka | Wrażliwa zawartość (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45399,7 +45399,7 @@
     },
     {
         "id": "sticker-4897",
-        "name": "Naklejka | Widzę cię (holograficzna)",
+        "name": "Naklejka | Widzę cię (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45409,7 +45409,7 @@
     },
     {
         "id": "sticker-4898",
-        "name": "Naklejka | Niezły clutch (holograficzna)",
+        "name": "Naklejka | Niezły clutch (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45419,7 +45419,7 @@
     },
     {
         "id": "sticker-4899",
-        "name": "Naklejka | Czas wykonywania (holograficzna)",
+        "name": "Naklejka | Czas wykonywania (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45559,7 +45559,7 @@
     },
     {
         "id": "sticker-4913",
-        "name": "Naklejka | Bezpaci (holograficzna)",
+        "name": "Naklejka | Bezpaci (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45569,7 +45569,7 @@
     },
     {
         "id": "sticker-4914",
-        "name": "Naklejka | PTFO (holograficzna)",
+        "name": "Naklejka | PTFO (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45579,7 +45579,7 @@
     },
     {
         "id": "sticker-4915",
-        "name": "Naklejka | Gotowy do bitwy (holograficzna)",
+        "name": "Naklejka | Gotowy do bitwy (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45589,7 +45589,7 @@
     },
     {
         "id": "sticker-4916",
-        "name": "Naklejka | Wingsuit (holograficzna)",
+        "name": "Naklejka | Wingsuit (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45739,7 +45739,7 @@
     },
     {
         "id": "sticker-4931",
-        "name": "Naklejka | Celny strzał (holograficzna)",
+        "name": "Naklejka | Celny strzał (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45749,7 +45749,7 @@
     },
     {
         "id": "sticker-4932",
-        "name": "Naklejka | Wielka fala (holograficzna)",
+        "name": "Naklejka | Wielka fala (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45759,7 +45759,7 @@
     },
     {
         "id": "sticker-4933",
-        "name": "Naklejka | Liczba zabójstw (holograficzna)",
+        "name": "Naklejka | Liczba zabójstw (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45769,7 +45769,7 @@
     },
     {
         "id": "sticker-4934",
-        "name": "Naklejka | Płynny ogień (holograficzna)",
+        "name": "Naklejka | Płynny ogień (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45849,7 +45849,7 @@
     },
     {
         "id": "sticker-4955",
-        "name": "Naklejka | Ninjas in Pyjamas (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Ninjas in Pyjamas (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45889,7 +45889,7 @@
     },
     {
         "id": "sticker-4959",
-        "name": "Naklejka | FURIA (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | FURIA (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45929,7 +45929,7 @@
     },
     {
         "id": "sticker-4963",
-        "name": "Naklejka | Natus Vincere (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Natus Vincere (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45969,7 +45969,7 @@
     },
     {
         "id": "sticker-4967",
-        "name": "Naklejka | Vitality (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Vitality (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46009,7 +46009,7 @@
     },
     {
         "id": "sticker-4971",
-        "name": "Naklejka | Team Liquid (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Team Liquid (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46049,7 +46049,7 @@
     },
     {
         "id": "sticker-4975",
-        "name": "Naklejka | Gambit Gaming (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Gambit Gaming (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46089,7 +46089,7 @@
     },
     {
         "id": "sticker-4979",
-        "name": "Naklejka | G2 Esports (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | G2 Esports (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46129,7 +46129,7 @@
     },
     {
         "id": "sticker-4983",
-        "name": "Naklejka | Evil Geniuses (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Evil Geniuses (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46169,7 +46169,7 @@
     },
     {
         "id": "sticker-4987",
-        "name": "Naklejka | Team Spirit (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Team Spirit (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46209,7 +46209,7 @@
     },
     {
         "id": "sticker-4991",
-        "name": "Naklejka | Astralis (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Astralis (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46249,7 +46249,7 @@
     },
     {
         "id": "sticker-4995",
-        "name": "Naklejka | paiN Gaming (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | paiN Gaming (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46289,7 +46289,7 @@
     },
     {
         "id": "sticker-4999",
-        "name": "Naklejka | ENCE (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | ENCE (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46329,7 +46329,7 @@
     },
     {
         "id": "sticker-5003",
-        "name": "Naklejka | BIG (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | BIG (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46369,7 +46369,7 @@
     },
     {
         "id": "sticker-5007",
-        "name": "Naklejka | Movistar Riders (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Movistar Riders (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46409,7 +46409,7 @@
     },
     {
         "id": "sticker-5011",
-        "name": "Naklejka | Heroic (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Heroic (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46449,7 +46449,7 @@
     },
     {
         "id": "sticker-5015",
-        "name": "Naklejka | MOUZ (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | MOUZ (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46489,7 +46489,7 @@
     },
     {
         "id": "sticker-5019",
-        "name": "Naklejka | Sharks Esports (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Sharks Esports (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46529,7 +46529,7 @@
     },
     {
         "id": "sticker-5023",
-        "name": "Naklejka | Tyloo (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Tyloo (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46569,7 +46569,7 @@
     },
     {
         "id": "sticker-5027",
-        "name": "Naklejka | Renegades (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Renegades (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46609,7 +46609,7 @@
     },
     {
         "id": "sticker-5031",
-        "name": "Naklejka | Entropiq (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Entropiq (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46649,7 +46649,7 @@
     },
     {
         "id": "sticker-5035",
-        "name": "Naklejka | GODSENT (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | GODSENT (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46689,7 +46689,7 @@
     },
     {
         "id": "sticker-5039",
-        "name": "Naklejka | Virtus.Pro (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Virtus.Pro (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46729,7 +46729,7 @@
     },
     {
         "id": "sticker-5043",
-        "name": "Naklejka | Copenhagen Flames (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Copenhagen Flames (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46769,7 +46769,7 @@
     },
     {
         "id": "sticker-5047",
-        "name": "Naklejka | FaZe Clan (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | FaZe Clan (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46809,7 +46809,7 @@
     },
     {
         "id": "sticker-5051",
-        "name": "Naklejka | PGL (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | PGL (hologramowa) | Sztokholm 2021",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -46840,7 +46840,7 @@
     {
         "id": "sticker-5129",
         "name": "Naklejka | s1mple | Sztokholm 2021",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Ołeksandr Kostyliew reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Ołeksandr Kostyliew reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -46849,8 +46849,8 @@
     },
     {
         "id": "sticker-5130",
-        "name": "Naklejka | s1mple (holograficzna) | Sztokholm 2021",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Ołeksandr Kostyliew reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "name": "Naklejka | s1mple (hologramowa) | Sztokholm 2021",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Ołeksandr Kostyliew reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -46860,7 +46860,7 @@
     {
         "id": "sticker-5131",
         "name": "Naklejka | s1mple (złota) | Sztokholm 2021",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Ołeksandr Kostyliew reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Ołeksandr Kostyliew reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -46870,7 +46870,7 @@
     {
         "id": "sticker-5132",
         "name": "Naklejka | Perfecto | Sztokholm 2021",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Ilja Załuckij reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Ilja Załuckij reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -46879,8 +46879,8 @@
     },
     {
         "id": "sticker-5133",
-        "name": "Naklejka | Perfecto (holograficzna) | Sztokholm 2021",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Ilja Załuckij reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "name": "Naklejka | Perfecto (hologramowa) | Sztokholm 2021",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Ilja Załuckij reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -46890,7 +46890,7 @@
     {
         "id": "sticker-5134",
         "name": "Naklejka | Perfecto (złota) | Sztokholm 2021",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Ilja Załuckij reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Ilja Załuckij reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -46900,7 +46900,7 @@
     {
         "id": "sticker-5135",
         "name": "Naklejka | Boombl4 | Sztokholm 2021",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Kiriłł Michajłow reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Kiriłł Michajłow reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -46909,8 +46909,8 @@
     },
     {
         "id": "sticker-5136",
-        "name": "Naklejka | Boombl4 (holograficzna) | Sztokholm 2021",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Kiriłł Michajłow reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "name": "Naklejka | Boombl4 (hologramowa) | Sztokholm 2021",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Kiriłł Michajłow reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -46920,7 +46920,7 @@
     {
         "id": "sticker-5137",
         "name": "Naklejka | Boombl4 (złota) | Sztokholm 2021",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Kiriłł Michajłow reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Kiriłł Michajłow reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -46930,7 +46930,7 @@
     {
         "id": "sticker-5138",
         "name": "Naklejka | b1t | Sztokholm 2021",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Wałerij Wachowśkyj reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Wałerij Wachowśkyj reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -46939,8 +46939,8 @@
     },
     {
         "id": "sticker-5139",
-        "name": "Naklejka | b1t (holograficzna) | Sztokholm 2021",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Wałerij Wachowśkyj reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "name": "Naklejka | b1t (hologramowa) | Sztokholm 2021",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Wałerij Wachowśkyj reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -46950,7 +46950,7 @@
     {
         "id": "sticker-5140",
         "name": "Naklejka | b1t (złota) | Sztokholm 2021",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Wałerij Wachowśkyj reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Wałerij Wachowśkyj reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -46960,7 +46960,7 @@
     {
         "id": "sticker-5141",
         "name": "Naklejka | electroNic | Sztokholm 2021",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Dienis Szaripow reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Dienis Szaripow reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -46969,8 +46969,8 @@
     },
     {
         "id": "sticker-5142",
-        "name": "Naklejka | electroNic (holograficzna) | Sztokholm 2021",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Dienis Szaripow reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "name": "Naklejka | electroNic (hologramowa) | Sztokholm 2021",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Dienis Szaripow reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -46980,7 +46980,7 @@
     {
         "id": "sticker-5143",
         "name": "Naklejka | electroNic (złota) | Sztokholm 2021",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Dienis Szaripow reprezentujący drużynę Natus Vincere, mistrz na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Dienis Szaripow reprezentujący drużynę Natus Vincere, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -46999,7 +46999,7 @@
     },
     {
         "id": "sticker-5145",
-        "name": "Naklejka | NiKo (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | NiKo (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Nikola Kovač z drużyny G2 Esports, który został finalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47029,7 +47029,7 @@
     },
     {
         "id": "sticker-5148",
-        "name": "Naklejka | nexa (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | nexa (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Nemania Isakowić z drużyny G2 Esports, który został finalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47059,7 +47059,7 @@
     },
     {
         "id": "sticker-5151",
-        "name": "Naklejka | huNter- (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | huNter- (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Nemania Kovač z drużyny G2 Esports, który został finalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47089,7 +47089,7 @@
     },
     {
         "id": "sticker-5154",
-        "name": "Naklejka | JACKZ (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | JACKZ (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Audric Jug z drużyny G2 Esports, który został finalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47119,7 +47119,7 @@
     },
     {
         "id": "sticker-5157",
-        "name": "Naklejka | AMANEK (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | AMANEK (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz François Delaunay z drużyny G2 Esports, który został finalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47149,7 +47149,7 @@
     },
     {
         "id": "sticker-5160",
-        "name": "Naklejka | TeSeS (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | TeSeS (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz René Stensig Madsen z drużyny Heroic, Semifinalist na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47179,7 +47179,7 @@
     },
     {
         "id": "sticker-5163",
-        "name": "Naklejka | stavn (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | stavn (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Martin Lund z drużyny Heroic, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47209,7 +47209,7 @@
     },
     {
         "id": "sticker-5166",
-        "name": "Naklejka | sjuush (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | sjuush (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Rasmus Beck z drużyny Heroic, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47239,7 +47239,7 @@
     },
     {
         "id": "sticker-5169",
-        "name": "Naklejka | refrezh (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | refrezh (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Ismail Ali z drużyny Heroic, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47269,7 +47269,7 @@
     },
     {
         "id": "sticker-5172",
-        "name": "Naklejka | cadiaN (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | cadiaN (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Casper Møller z drużyny Heroic, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47299,7 +47299,7 @@
     },
     {
         "id": "sticker-5175",
-        "name": "Naklejka | nafany (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | nafany (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Władisław Gorszkow z drużyny Gambit Esports, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47329,7 +47329,7 @@
     },
     {
         "id": "sticker-5178",
-        "name": "Naklejka | Ax1Le (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Ax1Le (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Siergiej Rychtorow z drużyny Gambit Esports, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47359,7 +47359,7 @@
     },
     {
         "id": "sticker-5181",
-        "name": "Naklejka | interz (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | interz (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Timofiej Jakuszyn z drużyny Gambit Esports, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47389,7 +47389,7 @@
     },
     {
         "id": "sticker-5184",
-        "name": "Naklejka | sh1ro (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | sh1ro (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Dmitrij Sokołow z drużyny Gambit Esports, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47419,7 +47419,7 @@
     },
     {
         "id": "sticker-5187",
-        "name": "Naklejka | HObbit (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | HObbit (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Abaj Chasenow z drużyny Gambit Esports, który został półfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47449,7 +47449,7 @@
     },
     {
         "id": "sticker-5190",
-        "name": "Naklejka | drop (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | drop (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz André Wagner de Abreu z drużyny FURIA, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47479,7 +47479,7 @@
     },
     {
         "id": "sticker-5193",
-        "name": "Naklejka | KSCERATO (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | KSCERATO (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Kaike Cerato z drużyny FURIA, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47509,7 +47509,7 @@
     },
     {
         "id": "sticker-5196",
-        "name": "Naklejka | VINI (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | VINI (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Vinicius Figueiredo z drużyny FURIA, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47539,7 +47539,7 @@
     },
     {
         "id": "sticker-5199",
-        "name": "Naklejka | arT (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | arT (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Andrei Piovezan z drużyny FURIA, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47569,7 +47569,7 @@
     },
     {
         "id": "sticker-5202",
-        "name": "Naklejka | yuurih (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | yuurih (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Yuri Boian z drużyny FURIA, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47599,7 +47599,7 @@
     },
     {
         "id": "sticker-5205",
-        "name": "Naklejka | Qikert (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Qikert (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Aleksiej Goliubew z drużyny Virtus.Pro, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47629,7 +47629,7 @@
     },
     {
         "id": "sticker-5208",
-        "name": "Naklejka | buster (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | buster (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Timur Tulepow z drużyny Virtus.Pro, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47659,7 +47659,7 @@
     },
     {
         "id": "sticker-5211",
-        "name": "Naklejka | YEKINDAR (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | YEKINDAR (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Mareks Galinskis z drużyny Virtus.Pro, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47689,7 +47689,7 @@
     },
     {
         "id": "sticker-5214",
-        "name": "Naklejka | Jame (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Jame (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Ali Dżami z drużyny Virtus.Pro, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47719,7 +47719,7 @@
     },
     {
         "id": "sticker-5217",
-        "name": "Naklejka | FL1T (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | FL1T (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Jewgienij Lebiediew z drużyny Virtus.Pro, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47749,7 +47749,7 @@
     },
     {
         "id": "sticker-5220",
-        "name": "Naklejka | hampus (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | hampus (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Hampus Poser z drużyny Ninjas in Pyjamas, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47779,7 +47779,7 @@
     },
     {
         "id": "sticker-5223",
-        "name": "Naklejka | LNZ (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | LNZ (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Linus Holtäng z drużyny Ninjas in Pyjamas, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47809,7 +47809,7 @@
     },
     {
         "id": "sticker-5226",
-        "name": "Naklejka | REZ (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | REZ (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Fredrik Sterner z drużyny Ninjas in Pyjamas, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47839,7 +47839,7 @@
     },
     {
         "id": "sticker-5229",
-        "name": "Naklejka | Plopski (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Plopski (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Nicolas Gonzalez Zamora z drużyny Ninjas in Pyjamas, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47869,7 +47869,7 @@
     },
     {
         "id": "sticker-5232",
-        "name": "Naklejka | device (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | device (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Nicolai Reedtz z drużyny Ninjas in Pyjamas, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47899,7 +47899,7 @@
     },
     {
         "id": "sticker-5235",
-        "name": "Naklejka | ZywOo (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | ZywOo (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Mathieu Herbaut z drużyny Vitality, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47929,7 +47929,7 @@
     },
     {
         "id": "sticker-5238",
-        "name": "Naklejka | misutaaa (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | misutaaa (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Kévin Rabier z drużyny Vitality, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47959,7 +47959,7 @@
     },
     {
         "id": "sticker-5241",
-        "name": "Naklejka | Kyojin (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | Kyojin (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Jayson Nguyen Van z drużyny Vitality, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -47989,7 +47989,7 @@
     },
     {
         "id": "sticker-5244",
-        "name": "Naklejka | shox (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | shox (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Richard Papillon z drużyny Vitality, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -48019,7 +48019,7 @@
     },
     {
         "id": "sticker-5247",
-        "name": "Naklejka | apEX (holograficzna) | Sztokholm 2021",
+        "name": "Naklejka | apEX (hologramowa) | Sztokholm 2021",
         "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Dan Madesclaire z drużyny Vitality, który został ćwierćfinalistą na Mistrzostwach CS:GO PGL Stockholm 2021.",
         "rarity": {
             "id": "rarity_mythical",
@@ -48159,7 +48159,7 @@
     },
     {
         "id": "sticker-5261",
-        "name": "Naklejka | Schemat granatu (holograficzna)",
+        "name": "Naklejka | Schemat granatu (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -48169,7 +48169,7 @@
     },
     {
         "id": "sticker-5262",
-        "name": "Naklejka | Nieskończony diament (holograficzna)",
+        "name": "Naklejka | Nieskończony diament (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -48179,7 +48179,7 @@
     },
     {
         "id": "sticker-5263",
-        "name": "Naklejka | Phoenix Balaclava Co. (holograficzna)",
+        "name": "Naklejka | Phoenix Balaclava Co. (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -48189,7 +48189,7 @@
     },
     {
         "id": "sticker-5264",
-        "name": "Naklejka | Sneaky Beaky Dept. (holograficzna)",
+        "name": "Naklejka | Sneaky Beaky Dept. (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -48199,7 +48199,7 @@
     },
     {
         "id": "sticker-5265",
-        "name": "Naklejka | Szturm terrorystów (holograficzna)",
+        "name": "Naklejka | Szturm terrorystów (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -48209,7 +48209,7 @@
     },
     {
         "id": "sticker-5266",
-        "name": "Naklejka | V jak Victoria (holograficzna)",
+        "name": "Naklejka | V jak Victoria (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -48419,7 +48419,7 @@
     },
     {
         "id": "sticker-5287",
-        "name": "Naklejka | FURIA | Antwerpia 2022",
+        "name": "Naklejka | Cloud9 | Antwerpia 2022",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -51100,7 +51100,7 @@
     {
         "id": "sticker-5580",
         "name": "Naklejka | huNter | Antwerp 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Nemania Kovač reprezentujący drużynę G2 Esports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Nemanja Kovac reprezentujący drużynę G2 Esports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -51110,7 +51110,7 @@
     {
         "id": "sticker-5581",
         "name": "Naklejka | huNter (brokatowa) | Antwerpia 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Nemania Kovač reprezentujący drużynę G2 Esports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Nemanja Kovac reprezentujący drużynę G2 Esports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -51120,7 +51120,7 @@
     {
         "id": "sticker-5582",
         "name": "Naklejka | huNter (holograficzna) | Antwerpia 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Nemania Kovač reprezentujący drużynę G2 Esports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Nemanja Kovac reprezentujący drużynę G2 Esports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -51130,7 +51130,7 @@
     {
         "id": "sticker-5583",
         "name": "Naklejka | huNter (złota) | Antwerpia 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Nemania Kovač reprezentujący drużynę G2 Esports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Nemanja Kovac reprezentujący drużynę G2 Esports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -51260,7 +51260,7 @@
     {
         "id": "sticker-5596",
         "name": "Naklejka | Jerry | Antwerp 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Andriej Miechriakow reprezentujący drużynę forZe eSports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Andrey  Mekrhyakov reprezentujący drużynę forZe eSports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -51270,7 +51270,7 @@
     {
         "id": "sticker-5597",
         "name": "Naklejka | Jerry (brokatowa) | Antwerpia 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Andriej Miechriakow reprezentujący drużynę forZe eSports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Andrey  Mekrhyakov reprezentujący drużynę forZe eSports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -51280,7 +51280,7 @@
     {
         "id": "sticker-5598",
         "name": "Naklejka | Jerry (holograficzna) | Antwerpia 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Andriej Miechriakow reprezentujący drużynę forZe eSports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Andrey  Mekrhyakov reprezentujący drużynę forZe eSports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -51290,7 +51290,7 @@
     {
         "id": "sticker-5599",
         "name": "Naklejka | Jerry (złota) | Antwerpia 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Andriej Miechriakow reprezentujący drużynę forZe eSports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Andrey  Mekrhyakov reprezentujący drużynę forZe eSports na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -54060,7 +54060,7 @@
     {
         "id": "sticker-5876",
         "name": "Naklejka | rain (mistrz) | Antwerpia 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Håvard Nygaard reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Håvard Nygaard reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -54070,7 +54070,7 @@
     {
         "id": "sticker-5877",
         "name": "Naklejka | rain (brokatowa, mistrz) | Antwerpia 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Håvard Nygaard reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Håvard Nygaard reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -54080,7 +54080,7 @@
     {
         "id": "sticker-5878",
         "name": "Naklejka | rain (holograficzna, mistrz) | Antwerpia 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Håvard Nygaard reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Håvard Nygaard reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -54090,7 +54090,7 @@
     {
         "id": "sticker-5879",
         "name": "Naklejka | rain (złota, mistrz) | Antwerpia 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Håvard Nygaard reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Håvard Nygaard reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -54100,7 +54100,7 @@
     {
         "id": "sticker-5880",
         "name": "Naklejka | karrigan (mistrz) | Antwerpia 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Finn Andersen reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Finn Andersen reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -54110,7 +54110,7 @@
     {
         "id": "sticker-5881",
         "name": "Naklejka | karrigan (brokatowa, mistrz) | Antwerpia 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Finn Andersen reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Finn Andersen reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -54120,7 +54120,7 @@
     {
         "id": "sticker-5882",
         "name": "Naklejka | karrigan (holograficzna, mistrz) | Antwerpia 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Finn Andersen reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Finn Andersen reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -54130,7 +54130,7 @@
     {
         "id": "sticker-5883",
         "name": "Naklejka | karrigan (złota, mistrz) | Antwerpia 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Finn Andersen reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Finn Andersen reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -54140,7 +54140,7 @@
     {
         "id": "sticker-5884",
         "name": "Naklejka | Twistzz (mistrz) | Antwerpia 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Russel Van Dulken reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Russel Van Dulken reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -54150,7 +54150,7 @@
     {
         "id": "sticker-5885",
         "name": "Naklejka | Twistzz (brokatowa, mistrz) | Antwerpia 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Russel Van Dulken reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Russel Van Dulken reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -54160,7 +54160,7 @@
     {
         "id": "sticker-5886",
         "name": "Naklejka | Twistzz (holograficzna, mistrz) | Antwerpia 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Russel Van Dulken reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Russel Van Dulken reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -54170,7 +54170,7 @@
     {
         "id": "sticker-5887",
         "name": "Naklejka | Twistzz (złota, mistrz) | Antwerpia 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Russel Van Dulken reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Russel Van Dulken reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -54180,7 +54180,7 @@
     {
         "id": "sticker-5888",
         "name": "Naklejka | broky (mistrz) | Antwerpia 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Helvijs Saukants reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Helvijs Saukants reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -54190,7 +54190,7 @@
     {
         "id": "sticker-5889",
         "name": "Naklejka | broky (brokatowa, mistrz) | Antwerpia 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Helvijs Saukants reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Helvijs Saukants reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -54200,7 +54200,7 @@
     {
         "id": "sticker-5890",
         "name": "Naklejka | broky (holograficzna, mistrz) | Antwerpia 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Helvijs Saukants reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Helvijs Saukants reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -54210,7 +54210,7 @@
     {
         "id": "sticker-5891",
         "name": "Naklejka | broky (złota, mistrz) | Antwerpia 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Helvijs Saukants reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Helvijs Saukants reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -54220,7 +54220,7 @@
     {
         "id": "sticker-5892",
         "name": "Naklejka | ropz (mistrz) | Antwerpia 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Robin Kool reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Robin Kool reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -54230,7 +54230,7 @@
     {
         "id": "sticker-5893",
         "name": "Naklejka | ropz (brokatowa, mistrz) | Antwerpia 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Robin Kool reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Robin Kool reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -54240,7 +54240,7 @@
     {
         "id": "sticker-5894",
         "name": "Naklejka | ropz (holograficzna, mistrz) | Antwerpia 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Robin Kool reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Robin Kool reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -54250,7 +54250,7 @@
     {
         "id": "sticker-5895",
         "name": "Naklejka | ropz (złota, mistrz) | Antwerpia 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Robin Kool reprezentujący drużynę FaZe Clan, mistrz na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Robin Kool reprezentujący drużynę FaZe Clan, który został mistrzem na Wielkich Mistrzostwach CS:GO PGL Antwerp 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -54639,7 +54639,7 @@
     },
     {
         "id": "sticker-5934",
-        "name": "Naklejka | Ace Clutch Co. (holograficzna)",
+        "name": "Naklejka | Ace Clutch Co. (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54669,7 +54669,7 @@
     },
     {
         "id": "sticker-5937",
-        "name": "Naklejka | Cbbl (holograficzna)",
+        "name": "Naklejka | Cbbl (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54679,7 +54679,7 @@
     },
     {
         "id": "sticker-5938",
-        "name": "Naklejka | Rozbrój ją (holograficzna)",
+        "name": "Naklejka | Rozbrój ją (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54689,7 +54689,7 @@
     },
     {
         "id": "sticker-5939",
-        "name": "Naklejka | Klub foliarzy (holograficzna)",
+        "name": "Naklejka | Klub foliarzy (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54699,7 +54699,7 @@
     },
     {
         "id": "sticker-5940",
-        "name": "Naklejka | Dym ci w oko (holograficzna)",
+        "name": "Naklejka | Dym ci w oko (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54709,7 +54709,7 @@
     },
     {
         "id": "sticker-5941",
-        "name": "Naklejka | Kawaii AT (holograficzna)",
+        "name": "Naklejka | Kawaii AT (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54719,7 +54719,7 @@
     },
     {
         "id": "sticker-5942",
-        "name": "Naklejka | Kawaii T (holograficzna)",
+        "name": "Naklejka | Kawaii T (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54729,7 +54729,7 @@
     },
     {
         "id": "sticker-5943",
-        "name": "Naklejka | Odjeżdża z peronu (holograficzna)",
+        "name": "Naklejka | Odjeżdża z peronu (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54739,7 +54739,7 @@
     },
     {
         "id": "sticker-5944",
-        "name": "Naklejka | W jedenastym – agenci (holograficzna)",
+        "name": "Naklejka | W jedenastym – agenci (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54749,7 +54749,7 @@
     },
     {
         "id": "sticker-5945",
-        "name": "Naklejka | Bohater Vertigo (holograficzna)",
+        "name": "Naklejka | Bohater Vertigo (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -54759,7 +54759,7 @@
     },
     {
         "id": "sticker-5946",
-        "name": "Naklejka | Zeuscepcja (holograficzna)",
+        "name": "Naklejka | Zeuscepcja (hologramowa)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -56070,7 +56070,7 @@
     {
         "id": "sticker-6102",
         "name": "Naklejka | SunPayus | Rio 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Álvaro García reprezentujący drużynę ENCE na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz Alvaro Garcia reprezentujący drużynę ENCE na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -56080,7 +56080,7 @@
     {
         "id": "sticker-6103",
         "name": "Naklejka | SunPayus (brokatowa) | Rio 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Álvaro García reprezentujący drużynę ENCE na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz Alvaro Garcia reprezentujący drużynę ENCE na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -56090,7 +56090,7 @@
     {
         "id": "sticker-6104",
         "name": "Naklejka | SunPayus (holograficzna) | Rio 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Álvaro García reprezentujący drużynę ENCE na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz Alvaro Garcia reprezentujący drużynę ENCE na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -56100,7 +56100,7 @@
     {
         "id": "sticker-6105",
         "name": "Naklejka | SunPayus (złota) | Rio 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Álvaro García reprezentujący drużynę ENCE na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz Alvaro Garcia reprezentujący drużynę ENCE na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"
@@ -58510,7 +58510,7 @@
     {
         "id": "sticker-6346",
         "name": "Naklejka | frozen | Rio 2022",
-        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz David Čerňanský reprezentujący drużynę MOUZ na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
+        "description": "Na tej naklejce swój autograf zostawił profesjonalny gracz David Cernansky reprezentujący drużynę MOUZ na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
         "rarity": {
             "id": "rarity_rare",
             "name": "wysokiej jakości"
@@ -58520,7 +58520,7 @@
     {
         "id": "sticker-6347",
         "name": "Naklejka | frozen (brokatowa) | Rio 2022",
-        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz David Čerňanský reprezentujący drużynę MOUZ na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
+        "description": "Na tej brokatowej naklejce swój autograf zostawił profesjonalny gracz David Cernansky reprezentujący drużynę MOUZ na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
         "rarity": {
             "id": "rarity_mythical",
             "name": "nadzwyczajnej rzadkości"
@@ -58530,7 +58530,7 @@
     {
         "id": "sticker-6348",
         "name": "Naklejka | frozen (holograficzna) | Rio 2022",
-        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz David Čerňanský reprezentujący drużynę MOUZ na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
+        "description": "Na tej holograficznej naklejce swój autograf zostawił profesjonalny gracz David Cernansky reprezentujący drużynę MOUZ na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
         "rarity": {
             "id": "rarity_legendary",
             "name": "egzotycznego pochodzenia"
@@ -58540,7 +58540,7 @@
     {
         "id": "sticker-6349",
         "name": "Naklejka | frozen (złota) | Rio 2022",
-        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz David Čerňanský reprezentujący drużynę MOUZ na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
+        "description": "Na tej złotej naklejce swój autograf zostawił profesjonalny gracz David Cernansky reprezentujący drużynę MOUZ na Wielkich Mistrzostwach CS:GO IEM Rio 2022.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "wyjątkowej jakości"

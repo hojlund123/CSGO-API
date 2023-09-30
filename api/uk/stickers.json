@@ -1061,7 +1061,7 @@
     },
     {
         "id": "sticker-111",
-        "name": "Наліпка | Моя інакша AWP",
+        "name": "Наліпка | Моя інакша АВП",
         "description": "<font color='#F2A93E'>My Other Awp</font>",
         "rarity": {
             "id": "rarity_rare",
@@ -1751,7 +1751,7 @@
     },
     {
         "id": "sticker-180",
-        "name": "Наліпка | Кавайна вбивця (ССО)",
+        "name": "Наліпка | Кавайна вбивця (С)",
         "description": "<font color='#F2A93E'>Kawaii Killer CT</font>",
         "rarity": {
             "id": "rarity_rare",
@@ -2551,7 +2551,7 @@
     },
     {
         "id": "sticker-266",
-        "name": "Наліпка | Курча SAS",
+        "name": "Наліпка | Курча СПС",
         "description": "<font color='#F2A93E'>SAS Chicken</font>",
         "rarity": {
             "id": "rarity_rare",
@@ -3561,7 +3561,7 @@
     },
     {
         "id": "sticker-370",
-        "name": "Наліпка | Це край AWP",
+        "name": "Наліпка | Це край АВП",
         "description": "<font color='#F2A93E'>Awp Country</font>",
         "rarity": {
             "id": "rarity_rare",
@@ -9751,7 +9751,7 @@
     },
     {
         "id": "sticker-989",
-        "name": "Наліпка | The Awper",
+        "name": "Наліпка | АВПівець",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -9851,7 +9851,7 @@
     },
     {
         "id": "sticker-999",
-        "name": "Наліпка | The Awper (лискуча)",
+        "name": "Наліпка | АВПівець (лискуча)",
         "description": null,
         "rarity": {
             "id": "rarity_legendary",
@@ -27599,7 +27599,7 @@
     },
     {
         "id": "sticker-2927",
-        "name": "Наліпка | Експерт перегрупування",
+        "name": "Наліпка | Фахівець із перегрупування",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -27629,7 +27629,7 @@
     },
     {
         "id": "sticker-2930",
-        "name": "Наліпка | Дружній вогонь (голографічна)",
+        "name": "Наліпка | Ураження своїх (голографічна)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -27639,7 +27639,7 @@
     },
     {
         "id": "sticker-2931",
-        "name": "Наліпка | Експерт перегрупування (голографічна)",
+        "name": "Наліпка | Фахівець із перегрупування (голографічна)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -37449,7 +37449,7 @@
     },
     {
         "id": "sticker-3968",
-        "name": "Наліпка | КукарікAWP",
+        "name": "Наліпка | КукурікАВП",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -42399,7 +42399,7 @@
     },
     {
         "id": "sticker-4524",
-        "name": "Наліпка | Постер SAS",
+        "name": "Наліпка | Постер СПС",
         "description": "<b><font color='#F2A93E'>Obey SAS</font></b>.",
         "rarity": {
             "id": "rarity_rare",
@@ -42959,7 +42959,7 @@
     },
     {
         "id": "sticker-4649",
-        "name": "Наліпка | Привіт, AK-47",
+        "name": "Наліпка | Привіт, АК-47",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -42969,7 +42969,7 @@
     },
     {
         "id": "sticker-4650",
-        "name": "Наліпка | Привіт, AK-47 (золота)",
+        "name": "Наліпка | Привіт, АК-47 (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42979,7 +42979,7 @@
     },
     {
         "id": "sticker-4651",
-        "name": "Наліпка | Привіт, AUG",
+        "name": "Наліпка | Привіт, АУГ",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -42989,7 +42989,7 @@
     },
     {
         "id": "sticker-4652",
-        "name": "Наліпка | Привіт, AUG (золота)",
+        "name": "Наліпка | Привіт, АУГ (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -42999,7 +42999,7 @@
     },
     {
         "id": "sticker-4653",
-        "name": "Наліпка | Привіт, AWP",
+        "name": "Наліпка | Привіт, АВП",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43009,7 +43009,7 @@
     },
     {
         "id": "sticker-4654",
-        "name": "Наліпка | Привіт, AWP (золота)",
+        "name": "Наліпка | Привіт, АВП (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43019,7 +43019,7 @@
     },
     {
         "id": "sticker-4655",
-        "name": "Наліпка | Привіт, ПП-19 «Бізон»",
+        "name": "Наліпка | Привіт, ПП «Бізон»",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43029,7 +43029,7 @@
     },
     {
         "id": "sticker-4656",
-        "name": "Наліпка | Привіт, ПП-19 «Бізон» (золота)",
+        "name": "Наліпка | Привіт, ПП «Бізон» (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43039,7 +43039,7 @@
     },
     {
         "id": "sticker-4657",
-        "name": "Наліпка | Привіт, CZ75-авто",
+        "name": "Наліпка | Привіт, ЧЗ-75 авто",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43049,7 +43049,7 @@
     },
     {
         "id": "sticker-4658",
-        "name": "Наліпка | Привіт, CZ75-авто (золота)",
+        "name": "Наліпка | Привіт, ЧЗ-75 авто (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43059,7 +43059,7 @@
     },
     {
         "id": "sticker-4659",
-        "name": "Наліпка | Привіт, FAMAS",
+        "name": "Наліпка | Привіт, ФАМАС",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43069,7 +43069,7 @@
     },
     {
         "id": "sticker-4660",
-        "name": "Наліпка | Привіт, FAMAS (золота)",
+        "name": "Наліпка | Привіт, ФАМАС (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43079,7 +43079,7 @@
     },
     {
         "id": "sticker-4661",
-        "name": "Наліпка | Привіт, Ґаліль",
+        "name": "Наліпка | Привіт, Ґаліл",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43089,7 +43089,7 @@
     },
     {
         "id": "sticker-4662",
-        "name": "Наліпка | Привіт, Ґаліль (золота)",
+        "name": "Наліпка | Привіт, Ґаліл (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43099,7 +43099,7 @@
     },
     {
         "id": "sticker-4663",
-        "name": "Наліпка | Привіт, M4A1-S",
+        "name": "Наліпка | Привіт, М4А1-С",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43109,7 +43109,7 @@
     },
     {
         "id": "sticker-4664",
-        "name": "Наліпка | Привіт, M4A1-S (золота)",
+        "name": "Наліпка | Привіт, М4А1-С (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43119,7 +43119,7 @@
     },
     {
         "id": "sticker-4665",
-        "name": "Наліпка | Привіт, M4A4",
+        "name": "Наліпка | Привіт, М4А4",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43129,7 +43129,7 @@
     },
     {
         "id": "sticker-4666",
-        "name": "Наліпка | Привіт, M4A4 (золота)",
+        "name": "Наліпка | Привіт, М4А4 (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43139,7 +43139,7 @@
     },
     {
         "id": "sticker-4667",
-        "name": "Наліпка | Привіт, MAC-10",
+        "name": "Наліпка | Привіт, МАК-10",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43149,7 +43149,7 @@
     },
     {
         "id": "sticker-4668",
-        "name": "Наліпка | Привіт, MAC-10 (золота)",
+        "name": "Наліпка | Привіт, МАК-10 (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43159,7 +43159,7 @@
     },
     {
         "id": "sticker-4669",
-        "name": "Наліпка | Привіт, MP7",
+        "name": "Наліпка | Привіт, МП7",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43169,7 +43169,7 @@
     },
     {
         "id": "sticker-4670",
-        "name": "Наліпка | Привіт, MP7 (золота)",
+        "name": "Наліпка | Привіт, МП7 (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43179,7 +43179,7 @@
     },
     {
         "id": "sticker-4671",
-        "name": "Наліпка | Привіт, MP9",
+        "name": "Наліпка | Привіт, МП9",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43189,7 +43189,7 @@
     },
     {
         "id": "sticker-4672",
-        "name": "Наліпка | Привіт, MP9 (золота)",
+        "name": "Наліпка | Привіт, МП9 (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43199,7 +43199,7 @@
     },
     {
         "id": "sticker-4673",
-        "name": "Наліпка | Привіт, P90",
+        "name": "Наліпка | Привіт, П90",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43209,7 +43209,7 @@
     },
     {
         "id": "sticker-4674",
-        "name": "Наліпка | Привіт, P90 (золота)",
+        "name": "Наліпка | Привіт, П90 (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43239,7 +43239,7 @@
     },
     {
         "id": "sticker-4677",
-        "name": "Наліпка | Привіт, UMP-45",
+        "name": "Наліпка | Привіт, УМП-45",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43249,7 +43249,7 @@
     },
     {
         "id": "sticker-4678",
-        "name": "Наліпка | Привіт, UMP-45 (золото)",
+        "name": "Наліпка | Привіт, УМП-45 (золото)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -43259,7 +43259,7 @@
     },
     {
         "id": "sticker-4679",
-        "name": "Наліпка | Привіт, XM1014",
+        "name": "Наліпка | Привіт, М1014",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -43269,7 +43269,7 @@
     },
     {
         "id": "sticker-4680",
-        "name": "Наліпка | Привіт, XM1014 (золота)",
+        "name": "Наліпка | Привіт, М1014 (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -44479,7 +44479,7 @@
     },
     {
         "id": "sticker-4805",
-        "name": "Наліпка | Кепсько намальований боєць SAS",
+        "name": "Наліпка | Кепсько намальований боєць СПС",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -44579,7 +44579,7 @@
     },
     {
         "id": "sticker-4815",
-        "name": "Наліпка | Кепсько намальований боєць SAS (голографічна)",
+        "name": "Наліпка | Кепсько намальований боєць СПС (голографічна)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -45349,7 +45349,7 @@
     },
     {
         "id": "sticker-4892",
-        "name": "Наліпка | Усе нормально (ССО)",
+        "name": "Наліпка | Усе нормально (С)",
         "description": null,
         "rarity": {
             "id": "rarity_rare",
@@ -54679,7 +54679,7 @@
     },
     {
         "id": "sticker-5938",
-        "name": "Наліпка | Знешкодь це (голографічна)",
+        "name": "Наліпка | Знешкодьте це (голографічна)",
         "description": null,
         "rarity": {
             "id": "rarity_mythical",
@@ -61119,7 +61119,7 @@
     },
     {
         "id": "sticker-6607",
-        "name": "Наліпка | Anubis (золота)",
+        "name": "Наліпка | Анубіс (золота)",
         "description": null,
         "rarity": {
             "id": "rarity_legendary",
