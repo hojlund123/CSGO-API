@@ -745,5 +745,65 @@
         },
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
+    },
+    {
+        "id": "music_kit-71",
+        "name": "Müzik Kiti | DRYDEN, Feel The Power",
+        "description": "Daha başka ne söylenebilir ki? Gücü hisset. DRYDEN'in bu yüksek enerjili elektronik müzik kiti ile hedefe kilitlenin.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Yüksek Sınıf"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-72",
+        "name": "Müzik Kiti | ISOxo, inhuman",
+        "description": "Sizi <i>farklı</i> hissettiren oyunlara özel yapıldı. ISOxo'nun \\\"inhuman\\\" müzik kiti ile düşmanlarınızı oyun boyunca avlayın.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Yüksek Sınıf"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-73",
+        "name": "Müzik Kiti | KILL SCRIPT, All Night",
+        "description": "Bir âşık mısın yoksa bir dövüşçü mü? Belki de her ikisi? KILL SCRIPT'in \\\"All Night\\\" müzik kiti ile bunu bütün lobiye göster.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Yüksek Sınıf"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-74",
+        "name": "Müzik Kiti | Knock2, Make U SWEAT!",
+        "description": "İşin sonunda sadece birkaç yüz CS derecesi olsa bile her maçı Major'un büyük finaliymiş gibi oynayan oyuncular için. Enerjiyi ve galibiyetleri Knock2'nin ikinci müzik kiti “Make U SWEAT!” ile getirin.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Yüksek Sınıf"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-75",
+        "name": "Müzik Kiti | Rad Cat, Reason",
+        "description": "Bazen bombayı imha etmek raundun EDO'su olmak için yeterlidir. Rad Cat'in \\\"Reason\\\" müzik kiti ile büyük veya küçük her anı kutlayın.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Yüksek Sınıf"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-76",
+        "name": "Müzik Kiti | TWERL ve Ekko & Sidetrack, Under Bright Lights",
+        "description": "Canlanmak için spot ışığında olmaktan daha iyi bir zaman olamaz. TWERL ve Ekko & Sidetrack'in davul ve bas marşı \\\"Under Bright Lights\\\"ın sizi ve ekibinizi yeni zirvelere taşımasına izin verin.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Yüksek Sınıf"
+        },
+        "exclusive": false
     }
 ]

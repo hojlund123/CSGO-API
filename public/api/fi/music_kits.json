@@ -2,7 +2,7 @@
     {
         "id": "music_kit-1",
         "name": null,
-        "description": "The official music kit of Counter-Strike 2.",
+        "description": "Counter-Strike 2:n virallinen musiikkipakkaus.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Korkean tason"
@@ -745,5 +745,65 @@
         },
         "exclusive": false,
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png"
+    },
+    {
+        "id": "music_kit-71",
+        "name": "Musiikkipakkaus | DRYDEN: Feel The Power",
+        "description": "Mitä sitä muuta voisi sanoa? Feel The Power. Tunne DRYDENin energisen musiikkipakkauksen sähköinen voima.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Korkean tason"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-72",
+        "name": "Musiikkipakkaus | ISOxo: inhuman",
+        "description": "Sopii eritoten peleihin, joissa tunnet olevasi...<i>erilainen</i>. Piinaa vihollisia kierros toisensa jälkeen ISOxon \\\"epäinhimillisellä\\\" musiikilla.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Korkean tason"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-73",
+        "name": "Musiikkipakkaus | KILL SCRIPT: All Night",
+        "description": "Käytätkö mieluummin lempeä vai voimaa? Vai lempeää voimaa? Kerro se kaikille KILL SCRIPTin All Night -musiikkipakkauksella.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Korkean tason"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-74",
+        "name": "Musiikkipakkaus | Knock2: Make U SWEAT!",
+        "description": "Pelaajille, jotka suhtautuvat jokaiseen peliin kuin ratkaisevaan finaaliin, vaikka palkkiona olisi vain muutama sata pistettä. Knock2:n toinen musiikkipakkaus Make U SWEAT tuo kunnon energiaa ja voitot kotiin.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Korkean tason"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-75",
+        "name": "Musiikkipakkaus | Rad Cat: Reason",
+        "description": "Toisinaan pommin purkaminen riittää kierroksen tähtipelaajan titteliin. Juhli jokaista hetkeä – pientä ja isoa – Rad Catin Reason-musiikkipakkauksella.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Korkean tason"
+        },
+        "exclusive": false
+    },
+    {
+        "id": "music_kit-76",
+        "name": "Musiikkipakkaus | TWERL, Ekko & Sidetrack: Under Bright Lights",
+        "description": "Valokeilassa paistattelua ei voita mikään. Under Bright Lightsin rumpu- ja bassorytmit nostavat sinut tiimeinesi uusiin korkeuksiin.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "Korkean tason"
+        },
+        "exclusive": false
     }
 ]
